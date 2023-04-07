@@ -60,11 +60,11 @@ const config = {
         logo: {
           alt: 'DAO Masons',
           src: 'img/dm-logo.svg',
-          href: '/gentle-intro-dao-governance',
+          href: '/Intro/about'
         },
         items: [
           {
-            href: 'https://github.com/DAOMasons/docs',
+            href: 'https://github.com/DAOMasons/daomasons-docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -78,7 +78,7 @@ const config = {
             items: [
               {
                 label: 'Get started',
-                to: '/gentle-intro-dao-governance',
+                to: '/landing',
               },
             ],
           },

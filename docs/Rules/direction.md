@@ -1,5 +1,36 @@
 ## Intro Section
 
+
+DAO Masons
+- About
+- Values
+- Join DAO Masons
+
+Governance
+- Governance Overview
+- Projects
+- Proposals
+- Core DAO vs Project DAO
+- Decision Making
+- Membership Rules
+- DAO Roles
+
+Strategy
+- Sustainability
+
+Rituals
+- What is a Ritual?
+- Ritual of Oaths
+- Ritual of Echoes
+- Ritual of Light
+- Ritual of Ranks
+- Ritual of Acumen
+
+Templates
+- Project Template
+- Ritual Template
+
+
 #### Hire Page:
 
 - Write a paragraph or two about why someone should hire us. Include our approach and commitment to client work.

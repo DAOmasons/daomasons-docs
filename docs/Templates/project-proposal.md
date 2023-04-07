@@ -1,17 +1,28 @@
-<<<<<<< HEAD
 # New Project Proposal Template
 
-**Project Title:** Arbitrum Outreach
+**Project Title:** (Example Project Title)
 
-**Client:** DAO Masons
+**Client:** ('DAO Masons' OR Client Name)
 
-**Submitted By:** Jord, Matt
+**Submitted By:** (You)
 
-**Project Lead:** Chris
+**Project Lead:** (DAO Mason Core Member)
 
 **Initial Role Structure:**
 
-1. Project Lead (Responsible for overall project management and communication)
+Define the roles that contributors will fill when they do work on this project. All work should be accomplished from within a role toward a specific purpose or accountability. Project Lead has final say on Role additions, modifications, deletions and who fills which roles, and which Tasks are assigned to which roles.
+
+
+(Sample Role Structure)
+1. Project Lead
+   Purpose: Order & Productivity
+   Accountability: 
+      Providing overall project management
+      Ensuring appropriate levels of communication and accountability
+      Ensuring project outcomes are achieved
+      Assigning Contributors to Roles as needed
+      Assigning Tasks to Roles as needed
+      Adding or Editing roles as needed
 
 1. Outreach Specialist
    Purpose: Get the right people in the right room
@@ -36,17 +47,6 @@
    - Making a list of possible areas that have community demand for services
    - Making recommendations based on outputs of @Researcher
    - Making recommendations on style of approach for outreach
-
-1. Content Creator
-   Purpose: People understand what we're up to
-   Accountabilities:
-
-   - Creating promotional and educational content for social media and governance forums on request of Project Lead
-
-1. Graphic Designer
-   Purpose: Memorable, effective, graphic communication
-   Accountabilities:
-   - Creating graphics as needed to accompany content created by @Content Creator or @Outreach Specialist
 
 **Team:** [List team members and the roles they will fill]
 
