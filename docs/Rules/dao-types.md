@@ -20,9 +20,9 @@ Only [Core Members](/Rules/membership-rules#core-member) can make decisions for 
 
 For every project that the DAO Masons takes on, a Project DAO is created. These projects include work we take on for clients, internal projects for DAO Masons, and even ongoing operations within DAO Masons
 
-Project DAOs are created by passing a [Project Proposal](/Templates/project-proposal) through the Core DAO. Every project had a team lead that is ultimately responsible for the project's success. Both [Core Members](/Rules/membership-rules#core-member) and [Contributors](/Rules/membership-rules#contributor) can participate in Project DAOs.
+Project DAOs are created by passing a [Project Proposal](/Templates/project-proposal) through the Core DAO. Every project has a Project Lead that is ultimately responsible for the project's success. Both [Core Members](/Rules/membership-rules#core-member) and [Contributors](/Rules/membership-rules#contributor) can participate in Project DAOs.
 
-Project DAOs are designed to be stream-lined and efficient as possible. For that reason, we've chosen to delegate much of the project-scoped [decision making](/Rules/decision-making#what-does-a-project-dao-decide-on) power to the Project Lead.
+Project DAOs are designed to be stream-lined and efficient as possible. For that reason, we've chosen to delegate much of the project-scoped decision-making power. This authority is given to the Project Lead. [decision making](/Rules/decision-making#what-does-a-project-dao-decide-on) 
 
 ### Current State of This Page
 
