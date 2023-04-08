@@ -8,7 +8,7 @@ DAO Masons
 
 Governance
 - Governance Overview
-- Projects
+- Projects 
 - Proposals
 - Core DAO vs Project DAO
 - Decision Making

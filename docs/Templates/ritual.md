@@ -1,4 +1,4 @@
-# Ritual/Implementation Template
+# Ritual Template
 
 ##### Current Stage of Development
 

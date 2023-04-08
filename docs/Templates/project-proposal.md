@@ -1,4 +1,17 @@
-# New Project Proposal Template
+# Project Template
+
+Proposing a new Project starts with this template. 
+
+Filling out this template is an opportunity to clearly define the Project outcomes, scope, timeline, budget, payout schema, attentional budget, problems, win state and more.
+
+The proposal is used as a guide for the Project Lead throughout the lifetime of the project. 
+
+This Template is reviewed by the DAO and approved or denied. If approved, template becomes the contract that the DAO uses to hold the Project accountable.
+
+See the [Governance: Projects](/Rules/projects) for instructions on how to initiate a Project. 
+
+
+### Template:
 
 **Project Title:** (Example Project Title)
 
@@ -48,10 +61,14 @@ Define the roles that contributors will fill when they do work on this project. 
    - Making recommendations based on outputs of @Researcher
    - Making recommendations on style of approach for outreach
 
-**Team:** [List team members and the roles they will fill]
+**Team:** 
+> List team members and the roles they will fill
 
 **Outcomes:**
 
+> Include tangible, measurable outcomes that can be verified by external observers. *Bonus Outcomes* are 'nice to haves' or 'stretches' that can be pursued within the Project, but are not absolutely necessary. 
+
+Example Outcomes:
 1. Increase DAO Masons visibility
    - 1000 meaningful interactions
    - Forum post responses, references, likes, mentions
@@ -64,19 +81,39 @@ Define the roles that contributors will fill when they do work on this project. 
 
 **Ongoing Processes:**
 
+> Include any recurring activities that are party of this Project. *Ongoing Processes* may be picked up by follow-up projects if necessary. e.g. A project establishes relationships with 10 external DAOs as an Outcome, and defines an ongoing process to reach out to those DAOs every 4 weeks to keep the relationship warm.  
+
 1. Weekly strategy & review meeting
 1. Monthly review for project viability & continuation
+1. Reach out to client DAOs every 4 weeks to keep relationship warm
 
-**Due Date (or Review Date):** April 22, 2023
+**Due Date (or Review Date):** 
 
-**Brief Analysis of the Project:**
-This project aims to promote our DAO's services to other DAOs, increase brand awareness, and establish partnerships. By targeting other DAOs as potential clients, we can leverage their resources and networks to expand our reach and impact within the ecosystem.
+> Include an End Date or Review Date for the Project. If Review Date, specify what happens if the project passes its review.
 
-**DAO Mechanism to Track Progress and Give Fair Compensation to the Team:** Ritual of Light
+Example:
+Review Date: June 1 2025.  On this date Project Lead will take feedback and recommend continuation or end of project. If continuation, review again in 1 month. 
 
-**Payment Method:** Shares via DAO disperse
+**Project TLDR:**
+> Include a 2-3 sentence summary of this project proposal. 
 
-**Client's Preferred Network for Payments:** Arbitrum
+**DAO Mechanism to Track Progress:** 
+
+> Describe how you will track progress and give fair compensation to the team. [Ritual of Light](/Rituals/ritual-of-light) is an acceptable answer.
+
+
+**Payment Method:** 
+
+> How will compensation be handled? 
+
+Examples: 
+* Shares via DAO Masons App using @ 1 hour = 1 share, using [Ritual of Echoes(/Rituals/ritual-of-echoes)]
+* XDAI sent via disperse by DAO proposal
+
+**Client's Preferred Network & currency for Payments:** 
+
+> If internal project for shares, specify 'shares via DAO Masons App'
+> Otherwise: 'Arbitrum - eth', 'Gnosis - xdai' etc.
 
 ## Questions to Answer:
 
@@ -105,6 +142,8 @@ This project aims to promote our DAO's services to other DAOs, increase brand aw
    - We are measuring meaningful interactions and emphasizing outreach & communication, which makes it likely we'll gain positive attention and be seen as a reliable source for DAOs within the larger Arbitrum community.
    - Breaking the work into discrete roles makes it less overwhelming to any individual, and granular roles can be handed off to others if we need to reassign people to client work
    - Weekly strategy & review meeting will be measuring meaningful interactions, which should create a reward cycle for us to improve motivation
+
+
 =======
 ---
 sidebar_label: "Start a New Project"

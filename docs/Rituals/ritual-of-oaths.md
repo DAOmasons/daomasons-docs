@@ -4,82 +4,64 @@ sidebar_label: 'Ritual of Oaths'
 
 # Ritual of Oaths
 
-- Each DAO Masons creates a **Colleague Letter of Understanding** to codify their commitments to their peers. This document forms the foundation of a DAO Mason's commitment to themselves and the DAO.
+- Each DAO Masons creates a **Core Member Agreement** to codify their commitments to their peers. This document forms the foundation of a DAO Mason's commitment to themselves and the DAO.
 
 - The DAO provides a Rulebook and Operating Agreement and the process by which those rules may change. Each DAO Mason must testify they have read and understood the Rulebook and the Operating Agreement.
 
-## DAO Mason Colleague Letter of Understanding (template)
 
-I hereby accept the mantle of the DAO Mason. In doing so I agree to abide by, to the best of my ability, the principles & commitments detailed within this letter of understanding.
 
-### Guiding Statements
 
-I agree and attest that I am in accord with the following three (3) DAO Masons guiding statements and as a DAO Mason agree to uphold, implement and advocate for them to the best of my ability.
+## Ritual of Oaths Template
 
-1. A DAO Mason builds and services structures that offer sovereign communities the protection, stability, and freedom to coordinate. _Initials_ \_\_\_\_\_
+## Essence
 
-1. A DAO Mason is productive and disciplined. Voluntary, coordinated sacrifice for virtuous ideals is the blade we use to sever the heads of Moloch. _Initials_ \_\_\_\_\_
+The Ritual of Oaths lets us know how we can rely on each other. 
 
-1. A DAO Mason cultivates a culture of craft, and craft is sacred. Dedication and focus are the rituals we perform to conjure expertise. _Initials_ \_\_\_\_\_
+The Ritual of Oaths is undertaken by all new DAO Masons.  It is a series of personalized agreements that each Core Member signs and adds to the repository.  
 
-### Principled Commitment Attestation
+The Ritual of Oaths culminates with the **Core Member Agreement**.
 
-1. I agree to embody the following principles & values to the best of my ability. _Initials_ \_\_\_\_\_
+- Each DAO Masons creates a **Core Member Agreement** to codify their commitments to their peers. This document forms the foundation of a DAO Mason's commitment to themselves and the DAO.
 
-2. If I find I am not embodying a particular principle or value I am willing to acknowledge this and make adjustments. _Initials_ \_\_\_\_\_
+- The DAO provides a Rulebook (you are reading it now) and an Operating Agreement that includes the process by which these rules may change. Each DAO Mason must testify they have read and understood the Rulebook and the Operating Agreement in their **Core Member Agreement**
 
-3. In service of my own growth, I remain open to feedback from fellow DAO Masons regarding my adherence to these principles and values, understanding that my fellows may have a different perspective than I do. _Initials_ \_\_\_\_\_
+## Why?
 
-- **Non-coercion** - Our coordination comes from a place of alignment on values and outcomes, not manipulation or authority alone.
-- **Discipline** - We build practical, organized systems and practices for ourselves, and reliably direct our attention and energy into using them.
-- **Productivity** - We are craftsmen, and we produce tangible results.
-- **Dedication** - We set apart a portion of our time, attention and energy for DAO Masons pursuits.
-- **Focus** - We place high-quality attention on one thing: what is most important now.
-- **Reliability** - We hold ourselves and each other accountable to the commitments we make.
-- **Loyalty** - We care deeply for those who work with us and strive for alignment wherever possible.
-- **Skillfulness** - We cultivate expertise through continuing self-improvement.
-- **Positive Mental Attitude** - We continue to identify and execute toward a desirable outcome, regardless of the circumstances.
-- **Generosity** - We go the extra mile and aim to maximize value for ourselves and our clients.
-- **Equality** - We value the individual for their merits regardless of age, gender, ethnicity, sexual orientation or other traits outside control.
-- **Practice Applied Faith** - We reinforce to ourselves that the outcomes we aim for are possible, and we take consistent action to reach them.
-- **Good Humor** - Despite our dedication, we set our ego aside and make sure we're having fun along the way.
+The Ritual of Oaths provides a baseline of trust and accountability among all members.
 
-### Personal Mission Statement
+#### What problems are we solving
 
-I articulate my _Personal Mission Statement_ as follows. I am open to questions about my personal mission as it relates to my work in DAO Masons, and I will refine and articulate it over time.
+The Ritual of Oaths helps us avoid the common tendency for people to shift responsibility away from themselves  claim ignorance of basic agreements and expectations.   Instead, we have clear agreements we can refer to if and when conflict arises. 
 
-_Personal Mission Statement_ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***
+If and when conflict arises, the Ritual of Oaths provides a baseline of agreement that we can return to as a starting place to resolve it.
 
-I articulate the _Key Activities_ that I agree to pursue & accomplish regularly in pursuit of my Personal Mission Statements and the DAOMason Mission Statements. I agree to fill roles related to these key activities in alignment with my Percent Focus and other commitments.
+Without concrete, verifiable declarations and agreements from our members, we can never be sure what we and they are committed to.  
 
-_Key Activities & Roles_ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***
+#### Why is this a good solution
 
-### Focus Commitment
+The Core Member Agreement includes references to our principles and expectations, and allows ample space for customization. It includes 'non-coercion' as our first principle, emphasizing that this agreement is entered willfully and we are each choosing to be here and contributing.
 
-I agree to commit a portion of my total productive focus time to the pursuit of the above aims. This portion can be defined as percent of total - with 100% being virtually all productive focus time - or as hours per week.
+#### Downsides/Risks
 
-This is an estimate, and its purpose is to give the DAO Masons an idea of how much focus time we can expect from our team as a whole.
+Going through this process could seem burdensome to new members, potentially disuading them.
+It's possible we won't refer to the documents and it will be wasted time.
 
-Amount: \_\_\_\_
+## Current Implementation
 
-- [ ] %
-- [ ] hrs/week
+- Each DAO Masons creates a [**Core Member Agreement**](Templates/core-member-agreement) to codify their commitments to their peers. This document forms the foundation of a DAO Mason's commitment to themselves and the DAO.
 
-It is understood that a reasonable allowance for side projects and creative endeavors necessary for my personal sovereign expression is made without impacting a 100% focus commitment.
+- The DAO provides a Rulebook (you are reading it now) and an Operating Agreement that includes the process by which these rules may change. Each DAO Mason must testify they have read and understood the Rulebook and the Operating Agreement in their **Core Member Agreement**
 
-### Tools of the Trade
+## Roadmap
 
-I've reviewed the [Tools of the Trade](https://hackmd.io/6fQdTdo4Qvu17KQbqN-PSw) and clarified my own Commitment Portfolio:
+#### Next Step
 
----
+_(Brief Description of what the next implementation step is, with a link to a spec if it exists. If there is not spec, mention that a spec is needed.)_
 
-**Trusted System**
+#### Endgame
 
-I agree to keep and maintain a personal "Trusted System" that includes my active projects, current commitments, and completed work. This system should be external to my own mind, and be something others can see and interact with on request.
+_(Brief Description of the desired end state. Consider how things could change)_
 
-**Accountability**
-I agree to be open to encouragement and accountability from other DAOmasons regarding my alignment with the above statements. If I am unable or unwilling to receive encouragement or accountability regarding my alignment with the above statements, I will schedule a time in the near future where I will be prepared to receive such. I will state my needs and boundaries and request mediation when needed.
+## Details
 
-Initials: **\_\_\_**
-
-Signature **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***
+_(Optional)_

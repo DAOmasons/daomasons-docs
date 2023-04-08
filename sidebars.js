@@ -42,6 +42,6 @@ module.exports = {
     {
       type: 'category',
       label: 'Templates',
-      items: ['Templates/project-proposal', 'Templates/ritual'],
+      items: ['Templates/project-proposal', 'Templates/ritual', 'Templates/core-member-agreement'],
     },
   ]}
