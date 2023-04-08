@@ -18,7 +18,7 @@ At the beginning of a project (proposal phase), we create outlines for each work
 
 In order for team leads to make informed decisions about their team during the selection process, it might be helpful to have some sort of information about how many projects each member has completed, and how many they have completed under a certain role.
 
-Ex. If a team lead is looking for a designer, it would useful to have some sort of resource to identify who has done the most design work within the DAO.
+For example, if a team lead is looking for a designer, it would useful to have some sort of resource to identify who has done the most design work within the DAO.
 
 Also, this system can help organize project teams by roles a clear division of labour during production.
 
@@ -36,14 +36,16 @@ Also, this system can help organize project teams by roles a clear division of l
 
 #### Downsides/Risks
 
-Current downsides:
+The current implementation of the Ritual of Ranks presents some downsides and risks that may need to be addressed for it to be more effective and fair.
 
+Current downsides:
 - Not purely objective.
-  - Some projects are longer than others
-  - Some projects are harder than others
-  - Some roles are more difficult.
-  - Some people may work longer than others and still recieve only 1 token.
-- It's hard to distill all the extra things we do down to one role. People may feel that the times where they went 'above and beyond', it wasn't recognized.
+- Some projects are longer than others
+- Some projects are harder than others
+- Some roles are more difficult.
+- Some people may work longer than others and still recieve only 1 token.
+- It's hard to distill all the extra things we do down to one role, and people may feel that the times when they went 'above and beyond' were not recognized.
+
 
 Mitigation: Perhaps a system where we add a score value into the metadata of a token will be able to solve these problems. However, we will need a system to aggregate that score from a variety of metrics.
 
@@ -51,7 +53,7 @@ Mitigation: Perhaps a system where we add a score value into the metadata of a t
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1dOYDqJTV5oJSYJo64eZbIqWJFmTqWHtDQcHmz-31DOU/edit?usp=sharing).
 
-We are currently in the unimplemented/manual stage for this ritual. We are currently using a spreadsheet to keep track of all the roles that each member has completed, as well as some other useful metrics.
+We are currently in the manual stage for this ritual. We are currently using a spreadsheet to keep track of all the roles that each member has completed, as well as some other useful metrics.
 
 - Project Worked
 - Time Spent on project
@@ -69,11 +71,9 @@ If we feel the data is useful, then we should begin to work on a way to automate
 
 We need to understand more about the use-case about the data that we are collecting before migrating to a tokenomic system.
 
-Systems are useful if people use them, so ideally we also have some understanding of UX for this system. For example, we try to reduce the amount of friction for team leads to use this system, and make it easy for them to see the data that they need.
+To encourage widespread adoption, it's crucial to minimize friction for team leads when using the system and ensure that the data they need is easily accessible.
 
-Once those barriers are effectively mitigated, then we should move to a fully onchain system that automates this process once a project is completed or has reached its review period.
-
-This system should include all the relevant metrics inside of the token metadata, and should be able to be easily queried.
+Once those barriers are effectively mitigated, we should move to a fully on-chain system that automates this process once a project is completed or has reached its review period. This system should include all relevant metrics in the token metadata and should be easily queryable.
 
 ## Details
 
