@@ -4,7 +4,7 @@ sidebar_label: 'DAO Roles'
 
 # DAO Roles
 
-Roles at DAO Masons represent a number of different things. In the discord server, roles are similar to roles you would find in many servers, often times developed around interest topics that a visitor may be have. Roles can be fluid in the server will come and go. A good example of this would be with Client Roles and Project Roles that go along with that. We find it is easier and creates less clutter in a server if certain conversations are gated to only those that would need to see as a client or as a member of the team. The following is a breakdown of the role structure at DAO Masons.
+Roles at DAO Masons represent a number of different things. In the discord server, roles are similar to roles you would find in many servers, often times developed around interest topics that a visitor may have. Roles in the server are fluid and will come and go as required. A good example of this would be with Client Roles and Project Roles that go along with that. We find it is easier and creates less clutter in a server if certain conversations are gated to only those that would need to see as a client or as a member of the team. The following is a breakdown of the role structure at DAO Masons.
 
 ## DAO Member Roles
 
@@ -12,7 +12,7 @@ Some roles within the DAO can only be achieved by joining the DAO. The only way 
 
 ## Contributor Roles (Reputation)
 
-Contributor roles are given to people who add value to the DAO in some way, weather it be through taking part in projects or being a good community member. People in contributor roles are often making steps towards becoming full DAO Masons. We have built into our DAO, a reputation system which allows contributors to build the reputation they need in order to gain full membership. This is represented as a role on the Discord server and may include other symbols of your commitment, such as a Soul Bound Token.
+Contributor roles are given to people who add value to the DAO in some way, whether it be through taking part in projects or being a good community member. People in contributor roles are often making steps towards becoming full DAO Masons. We have built into our DAO, a reputation system which allows contributors to build the reputation they need in order to gain full membership. This is represented as a role on the Discord server and may include other symbols of your commitment, such as a Soul Bound Token.
 
 ## Project Roles
 
