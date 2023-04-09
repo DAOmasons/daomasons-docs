@@ -7,7 +7,7 @@ sidebar_label: 'Decision Making'
 ## Who Decides?
 
 - Core Members make [Core DAO](docs/Rules/core-dao) decisions through Moloch DAO [Proposals](docs/Rules/proposals)
-- Project Leads make [Project](docs/Rules/projects) decisions though a mix of soft consensus, voting within their Project DAO, or not voting at all.
+- Project Leads make [Project](docs/Rules/projects) decisions through a mix of soft consensus, voting within their Project DAO, or not voting at all.
   - In projects, whether or not a decision is made through soft consensus or voting is determined by the Project Lead.
   - Project leads can also choose to not vote on decisions altogether, even if there is a disagreement.
   - However, the team may motion to replace a project lead if necessary.
@@ -18,7 +18,8 @@ sidebar_label: 'Decision Making'
 The Core DAO makes decisions that fall within the Core DAO scope. This includes:
 
 - **Projects**. What client work the DAO agrees to take on as well as internal projects.
-  - This includes examining who is working on the project, what the project is, what the project is worth, and who the team lead will be. - This is all summarized in a [Project Request](docs/Templates/project-proposal) that is submitted prior to the meeting.
+  - This includes examining who is working on the project, its scope, worth, and the Project Lead.
+  - This is all summarized in a [Project Request](docs/Templates/project-proposal) that is submitted prior to the meeting.
   - DAO Members are expected to have reviewed the Project Proposal before the meeting.
 - **Promotions**. Promoting Contributors to Core Members.
   - [A Promotion Request](docs/Templates/promotion-request) should be submitted prior to the meeting.
@@ -26,7 +27,7 @@ The Core DAO makes decisions that fall within the Core DAO scope. This includes:
   - DAO Members are expected to have reviewed the Promotion Request before the meeting.
 - **Demotions** Demoting Core Members to Contributors.
   - [A Demotion Request](docs/Templates/promotion-request) should be submitted prior to the meeting.
-  - The DAO reviews the member in question and makes sure that they member in contract meets the [demotion criteria](docs/Rules/dao-structure).
+  - The DAO reviews the member in question and makes sure that the member in question meets the [demotion criteria](docs/Rules/dao-structure).
   - DAO Members are expected to have reviewed the Demotion Request before the meeting.
 - **Core DAO Structure**. Changes to the Core DAO structure.
   - This includes changes to any of the DAO rules or operating procedures.
@@ -36,7 +37,7 @@ The Core DAO makes decisions that fall within the Core DAO scope. This includes:
 
 ## What does a Project DAO decide on?
 
-Any and all decisions regarding within the project scope. Most, if not all cases, the project lead should be the one making decisions for the project. These decisions would include:
+Any and all decisions within the project scope. Most, if not all cases, the project lead should be the one making decisions for the project. These decisions would include:
 
 - Scope of the project
 - Changing roles within the project
@@ -77,7 +78,7 @@ Any and all decisions regarding within the project scope. Most, if not all cases
 - A meeting will be scheduled within 12 hours of the Red Alert being raised. All non-delegated Core Members are required to attend regardless of whether or not they think the issue is urgent.
 - The meeting is not over until the issue is resolved or an action plan is initiated.
 - In the case of attack, all DAO operations are suspended and all Core members are required to focus on resolving the issue.
-- Once the issue is resolved, the DAO can resume normal operations.
+- Once the issue is resolved, the DAO resumes normal operations.
 - If a member feels that another member has abused the Red Alert system, the DAO can vote to demote the member in question.
 
 ### Governance Backlog
