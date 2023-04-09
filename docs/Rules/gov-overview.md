@@ -12,19 +12,19 @@ Our governance is structured into two tiers: the Core DAO and Project DAOs. The 
 
 ## Membership Roles
 
-DAO Masons offers two distinct membership roles: Contributors and Core Members. Contributors focus on working on projects and earning, while Core Members take on additional responsibilities, such as participating in governance and leading projects. This membership structure allows for clear progression and recognition of talent and commitment.
+DAO Masons offers two distinct membership roles: Contributors and Core Members. Contributors focus on working on projects and building their reputation, while Core Members take on additional responsibilities, such as participating in governance and leading projects. This membership structure allows for clear progression and acknowledgment of talent and commitment.
 
 Read more about our membership rules [here](/Rules/membership-rules).
 
 ## Efficient Decision-Making
 
-Both Core Members and Contributors are encouraged to collaborate on projects, share their expertise, and contribute to the growth of the organization. This inclusive environment ensures that diverse perspectives are heard and valued, ultimately leading to better decision-making and more successful projects.
+Both Core Members and Contributors are encouraged to collaborate on projects, share their expertise, and contribute to the growth of the organization. This collaborative environment ensures that diverse perspectives are heard and valued, ultimately leading to better decision-making and more successful projects.
 
 Read more about how we make decisions [here](/Rules/decision-making).
 
 ## Contribution-Based Governance
 
-Contribution-based governance is a fundamental principle at DAO Masons. We believe that the people who contribute the most to the DAO should have the most say in its governance. By only offering shares to those who have made contributions, we ensure that the organization is run by those who are most invested in its success.
+Contribution-based governance is a fundamental principle at DAO Masons. We believe that the people who contribute the most to the DAO should have the most say in its governance. By only offering decision-making power to those who have made contributions, we ensure that the organization is run by those who are most invested in its success.
 
 ### Current State of This Page
 
