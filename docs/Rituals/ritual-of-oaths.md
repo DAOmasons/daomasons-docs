@@ -8,16 +8,13 @@ sidebar_label: 'Ritual of Oaths'
 
 - The DAO provides a Rulebook and Operating Agreement and the process by which those rules may change. Each DAO Mason must testify they have read and understood the Rulebook and the Operating Agreement.
 
-
-
-
 ## Ritual of Oaths Template
 
 ## Essence
 
-The Ritual of Oaths lets us know how we can rely on each other. 
+The Ritual of Oaths lets us know how we can rely on each other.
 
-The Ritual of Oaths is undertaken by all new DAO Masons.  It is a series of personalized agreements that each Core Member signs and adds to the repository.  
+The Ritual of Oaths is undertaken by all new DAO Masons. It is a series of personalized agreements that each Core Member signs and adds to the repository.
 
 The Ritual of Oaths culminates with the **Core Member Agreement**.
 
@@ -31,11 +28,11 @@ The Ritual of Oaths provides a baseline of trust and accountability among all me
 
 #### What problems are we solving
 
-The Ritual of Oaths helps us avoid the common tendency for people to shift responsibility away from themselves  claim ignorance of basic agreements and expectations.   Instead, we have clear agreements we can refer to if and when conflict arises. 
+The Ritual of Oaths helps us avoid the common tendency for people to shift responsibility away from themselves claim ignorance of basic agreements and expectations. Instead, we have clear agreements we can refer to if and when conflict arises.
 
 If and when conflict arises, the Ritual of Oaths provides a baseline of agreement that we can return to as a starting place to resolve it.
 
-Without concrete, verifiable declarations and agreements from our members, we can never be sure what we and they are committed to.  
+Without concrete, verifiable declarations and agreements from our members, we can never be sure what we and they are committed to.
 
 #### Why is this a good solution
 
