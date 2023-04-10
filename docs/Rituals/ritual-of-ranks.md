@@ -1,18 +1,21 @@
 # Ritual of Ranks
 
-##### Current Stage of Development
-
-- [ ] Unimplemented
-- [x] Manual
-- [ ] Systemetized
-- [ ] Partially Automated
-- [ ] Fully Automated/Passive
-
 ## Essence
 
 Ritual of Ranks is how we keep track of the roles that each member has completed on a project.
 
 At the beginning of a project (proposal phase), we create outlines for each worker's roles on the project. Then once the project is over, the team lead mints/records (spreadsheet for now, eventually through SBTs) the role as a badge. This works as a point system, to see who could be most eligible to work on the next project.
+
+
+## Current Implementation
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1dOYDqJTV5oJSYJo64eZbIqWJFmTqWHtDQcHmz-31DOU/edit?usp=sharing).
+
+We are currently in the unimplemented/manual stage for this ritual. We are currently using a spreadsheet to keep track of all the roles that each member has completed, as well as some other useful metrics.
+
+- Project Worked
+- Time Spent on project
+- Value Level avg of project(if there was a rubric used in a Ritual of Light system for that project. If not then it's a mid-level 3)
 
 ## Why?
 
@@ -47,15 +50,7 @@ Current downsides:
 
 Mitigation: Perhaps a system where we add a score value into the metadata of a token will be able to solve these problems. However, we will need a system to aggregate that score from a variety of metrics.
 
-## Current Implementation
 
-[Spreadsheet](https://docs.google.com/spreadsheets/d/1dOYDqJTV5oJSYJo64eZbIqWJFmTqWHtDQcHmz-31DOU/edit?usp=sharing).
-
-We are currently in the unimplemented/manual stage for this ritual. We are currently using a spreadsheet to keep track of all the roles that each member has completed, as well as some other useful metrics.
-
-- Project Worked
-- Time Spent on project
-- Value Level avg of project(if there was a rubric used in a Ritual of Light system for that project. If not then it's a mid-level 3)
 
 ## Roadmap
 
@@ -80,3 +75,21 @@ This system should include all the relevant metrics inside of the token metadata
 Further reading:
 
 Boiler(Chris) has spent a good amount of time [thinking](https://hackmd.io/@DAOMasons/H1oqJ3oqj) about this system and has a lot of ideas about how to implement it.
+
+---
+##### Current Stage of Development
+
+- [ ] Unimplemented
+- [x] Manual
+- [ ] Systemetized
+- [ ] Partially Automated
+- [ ] Fully Automated/Passive
+
+--- 
+### Current State of This Page
+
+- [ ] Empty
+- [x] Rough Draft
+- [ ] Editing passes: 0
+- [ ] Final Draft
+- [ ] Ratified

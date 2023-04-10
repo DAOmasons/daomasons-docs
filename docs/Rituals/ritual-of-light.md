@@ -1,39 +1,32 @@
 # Ritual of Light
 
-##### Current Stage of Development
-
-- [ ] Unimplemented
-- [ ] Manual
-- [x] Systemetized
-- [ ] Partially Automated
-- [ ] Fully Automated/Passive
-
 ## Essence
 
-Ritual of Light is a proportional compensation system for projects. It allows the team full visibility into how much work each team member is doing, how long it is taking, and ensures that everyone is paid in proportion to the amount of work they have done.
+Ritual of Light is a proportional compensation system for Projects. It allows the team full visibility into how much work each team member is doing, how long it is taking, and ensures that everyone is paid in proportion to the amount of work they have done.
 
 ## Current Implementation
 
-**Beginning of project:**
+**Beginning of Project:**
 
-- Team lead creates a project DAO
-- Team lead deploys a Ritual of Light contract and adds it to the project DAO
-- Team Lead deploys project DAO app using the Ritual of Light app template.
-- Optionally, the team may decide on a **Value Rubric** that awards differing percentages of shares
+- Project Lead creates a Project DAO
+- Project Lead deploys a Ritual of Light contract and adds it to the Project DAO
+- Project Lead deploys Project DAO app using the Ritual of Light app template.
+- The default Value Rubric is *1 hour of work = 1 share*.
+- The Project Lead may adopt an alternate Value Rubric that awards shares in a different way.
 
-**During project:**
+**During Project:**
 
-- The team meets together at a regular interval (weekly, bi-weekly, etc.)
-- Each team member makes a claim for the work they have done since the last meeting.
-- The team decides whether or not to accept the claim. In DAO Masons, usually this decision is delegated to a team lead. However, it is completely possible to do this as a group.
-- Each team member adds their claim to the app, and they are rewarded with shares in the project DAO.
-- The claims are automatically displayed in a timeline feed on the project DAO's app.
+- The Project Team meets together at a regular interval as defined in the Recurring Processes section of the Project Proposal (weekly, bi-weekly, etc.)
+- Each Project Team Member makes a claim for the work they have done since the last meeting.
+- The Project Team decides whether or not to accept the claim, with Project Lead having final say when there is no consensus.
+- Each Project Team Member adds their claim to the app, and they are rewarded with shares in the Project DAO.
+- The claims are automatically displayed in a timeline feed on the Project DAO's app.
 
-**End of project:**
+**End of Project:**
 
-- If this is a client project, and the client is happy with the work, the funds can be pulled from escrow
-- DAO Masons (or other parent DAO) receives its share of the funds.
-- Then the funds are sent to the project DAO, and each team member can pull their proportion of the funds.
+- If this is an External Project (with a client), and the client is happy with the work, the funds can be pulled from escrow
+- DAO Masons (or other parent DAO) receives its share of the funds (default 10%).
+- Then the remaining funds are sent to the Project DAO, and each Project Team Member can pull their proportion of the funds.
 - The team simply uses the `ragequit` function on the project DAO to pull. This will burn the shares they have earned, and they will receive funds in direct proportion to the amount of work they have done.
 
 ## Why?
@@ -117,3 +110,21 @@ Ritual of Light is a fully transparent, open system where a small group of contr
 - The interface allows DAOs to see all their current and past projects, and their own ROL apps that each team is using.
 - The contract is minimal and has an extremely surface area for attacks.
 - Anyone can easily spin up a new project DAO and start using it.
+
+--- 
+##### Current Stage of Development
+
+- [ ] Unimplemented
+- [ ] Manual
+- [x] Systemetized
+- [ ] Partially Automated
+- [ ] Fully Automated/Passive
+
+--- 
+### Current State of This Page
+
+- [ ] Empty
+- [ ] Rough Draft
+- [x] Editing passes: 2
+- [ ] Final Draft
+- [ ] Ratified

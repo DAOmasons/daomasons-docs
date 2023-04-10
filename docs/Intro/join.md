@@ -14,7 +14,7 @@ The key distinction between contributors and core members is that contributors a
 
 There are no limitations on earnings or how many projects a contributor can work on.
 
-If you wish to begin working at DAO Masons, please join our [Discord](https://discord.gg/zQYhrUB5Hj) and introduce yourself in the #introductions channel.We will then invite you to our contributor channel where you can begin working on projects.
+If you wish to begin working at DAO Masons, please join our [Discord](https://discord.gg/zQYhrUB5Hj) and introduce yourself in the #introductions channel. We will then invite you to our contributor channel where you can begin working on projects.
 
 Read more about the Contributor Track [here](/Rules/membership-rules#contributor).
 
@@ -33,9 +33,11 @@ Read more about the Core Member Track [here](/Rules/membership-rules#core-member
 #### Read More:
 
 - ##### [Membership Rules](/Rules/membership-rules)
-- ##### [DAO Structure](/Rules/dao-structure)
 - ##### [Ritual of Acumen](/Rituals/ritual-of-acumen)
 - ##### [Ritual of Oaths](/Rituals/ritual-of-oaths)
+
+
+---
 
 ### Current State of This Page
 

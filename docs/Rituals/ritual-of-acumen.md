@@ -1,16 +1,12 @@
 # Ritual of Acumen
 
-##### Current Stage of Development
-
-- [x] Unimplemented
-- [ ] Manual
-- [ ] Systemetized
-- [ ] Partially Automated
-- [ ] Fully Automated/Passive
-
 ## Essence
 
 This is a system for testing the acumen of potential core members. It is a test of their ability to think critically and communicate effectively. It is also a test of their ability to work with others. This will be a verbal test where Core Members verify has studied the required content (DAO rules/processes, mission/values, meeting etiquette, and basic critical thinking skills).
+
+## Current Implementation
+
+Prospective members must appear before a panel of at least 3 DAO Mason Core Members, where they will be challenged to think critically, communicate effectively and display their understanding of DAO Masons processes.  Each member of the panel provides an assessment to the DAO preceding a DAO vote. 
 
 ## Why?
 
@@ -46,10 +42,6 @@ For friction on part of the members, we can mitigate through automation over tim
 
 As for homogenous thought, we need to emphasize that critical thinking is a toolbox, not a religion. We also need to stress that part and parcel to critical thinking is a willingness to change and challenge your mind, which includes breaking away from groupthink.
 
-## Current Implementation
-
-Not Implemented.
-
 ## Roadmap
 
 #### Next Step
@@ -73,3 +65,22 @@ Automation is risky because we don't want to create a system that is too easy to
 ## Details
 
 (none yet. Add resources for testing here.)
+
+---
+##### Current Stage of Development
+
+- [x] Unimplemented
+- [ ] Manual
+- [ ] Systemetized
+- [ ] Partially Automated
+- [ ] Fully Automated/Passive
+
+
+--- 
+### Current State of This Page
+
+- [ ] Empty
+- [x] Rough Draft
+- [ ] Editing passes: 0
+- [ ] Final Draft
+- [ ] Ratified
