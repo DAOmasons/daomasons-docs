@@ -20,12 +20,7 @@ The Ritual of Oaths provides a baseline of trust and accountability among all me
 
 #### What problems are we solving
 
-<<<<<<< HEAD
 The Ritual of Oaths helps us avoid the common tendency for people to shift responsibility away from themselves to claim ignorance of basic agreements and expectations. Instead, we have clear agreements we can refer to if and when conflict arises.
-=======
-The Ritual of Oaths helps us avoid the common tendency for people to shift responsibility away from themselves claim ignorance of basic agreements and expectations. Instead, we have clear agreements we can refer to if and when conflict arises.
-
-> > > > > > > 39f6d9e630591acaf222f9e9a86e53bb87a1d201
 
 If and when conflict arises, the Ritual of Oaths provides a baseline of agreement that we can return to as a starting place to resolve it.
 
@@ -78,22 +73,17 @@ By achieving these outcomes, the Ritual of Oaths will have accomplished its endg
 
 ## Details
 
-_(Optional)_
+<!-- _(Optional)_ -->
 
-<<<<<<< HEAD
-
-```
 This section provides further insight into the creation and implementation of the Ritual of Oaths.
 
 **Inspiration:** The Ritual of Oaths was inspired by various ancient and modern traditions that emphasize the importance of oaths and agreements in fostering trust, loyalty, and collaboration among individuals and groups. Drawing from these rich sources, the Ritual of Oaths was designed to adapt these principles to the unique context of decentralized organizations, addressing the specific challenges they face.
 
 **Best Practices:** In implementing the Ritual of Oaths, it is essential to ensure that the process is transparent, inclusive, and accessible to all members. To achieve this, consider the following best practices:
+
 - Encourage open and honest communication among DAO Masons when discussing and negotiating their agreements.
 - Provide support and resources for members to better understand the principles and expectations set forth in the Rulebook and Operating Agreement.
 - Regularly review and update the Ritual of Oaths to ensure its continued relevance and effectiveness as the DAO evolves.
-```
-
-=======
 
 ---
 
@@ -114,4 +104,3 @@ This section provides further insight into the creation and implementation of th
 - [x] Editing passes: 3
 - [ ] Final Draft
 - [ ] Ratified
-  > > > > > > > 39f6d9e630591acaf222f9e9a86e53bb87a1d201

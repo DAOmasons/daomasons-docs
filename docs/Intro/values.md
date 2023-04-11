@@ -4,7 +4,7 @@ sidebar_label: 'Values'
 
 # Our Values
 
-### Help DAOs Win. One Win at a Time.
+Help DAOs Win. One Win at a Time.
 
 ### Support Sovereign Communities
 
@@ -26,7 +26,7 @@ In order for us to create sharp, effective DAOs, DAO Masons itself must be as sh
 
 DAOs are distinct because of their accessible, open, opt-in nature. Which is why we believe that game design is a strong guiding principle for designing DAOs. A well built coordination mechanism should be engaging, fun, and empowering.
 
-### Meaningful Outcomes 
+### Meaningful Outcomes
 
 Building spaces for people to solve meaningful problems leads to meaningful results. When people are motivated by a shared agreement to act toward a meaningful outcome, they can reach their highest potential.
 
@@ -34,14 +34,13 @@ Building spaces for people to solve meaningful problems leads to meaningful resu
 
 We believe that in order to accomplish the mission, we need reliable and sustainable structures, tailor-fit to the people inside them. These structures need to foster alignment inside the DAO so it can meaningfully impact the outside world.
 
-### Craft, Results & Competence 
+### Craft, Results & Competence
 
 Most importantly, DAOs must be competent. We believe that in order for DAOs to change the world, they must first share and delight in a rich collection of well-earned **wins**.
 
 **Our mission is to help DAOs win. When DAOs win, we all win**
 
-
---- 
+---
 
 ### Current State of This Page
 
