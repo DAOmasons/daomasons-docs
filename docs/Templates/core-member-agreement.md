@@ -1,5 +1,11 @@
 # Core Member Agreement
 
+> The Core Member agreement is used in conjunction with the [Ritual of Oaths](/Rituals/ritual-of-oaths)
+> and the 
+
+
+### Core Member Agreement
+
 I hereby accept the mantle of the DAO Mason. In doing so I agree to abide by, to the best of my ability, the principles & commitments detailed within this letter of understanding.
 
 ### Guiding Statements
@@ -73,3 +79,15 @@ I agree to be open to encouragement and accountability from other DAOmasons rega
 Initials: **\_\_\_**
 
 Signature **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***
+
+
+---
+
+## Document Status
+> *Ratified documents have been reviewed and approved by the DAO and are considered "Active Governance" and will not change without a DAO vote. Anything before ratified is considered "Pending Governance" and is subject to change by editorswithout a DAO vote*
+
+- [ ] Empty
+- [ ] Rough Draft
+- [ ] Editing passes: 5
+- [ ] Final Draft
+- [ ] Ratified

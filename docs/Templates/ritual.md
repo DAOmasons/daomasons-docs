@@ -1,12 +1,6 @@
-# Ritual Template
+# Ritual Proposal Template
 
-##### Current Stage of Development
 
-- [ ] Unimplemented
-- [ ] Manual
-- [ ] Systemetized
-- [ ] Partially Automated
-- [ ] Fully Automated/Passive
 
 ## Essence
 
@@ -46,3 +40,15 @@ _(Brief Description of the desired end state. Consider how things could change)_
 ## Details
 
 _(Optional)_
+
+
+---
+
+## Document Status
+> *Ratified documents have been reviewed and approved by the DAO and are considered "Active Governance" and will not change without a DAO vote. Anything before ratified is considered "Pending Governance" and is subject to change by editorswithout a DAO vote*
+
+- [ ] Empty
+- [ ] Rough Draft
+- [ ] Editing passes: 1
+- [ ] Final Draft
+- [ ] Ratified

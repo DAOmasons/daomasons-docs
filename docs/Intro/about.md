@@ -4,34 +4,32 @@ sidebar_label: 'About'
 
 # DAO Masons
 
-### Our mission is to help DAOs win.
+### Our mission is to help DAOs win. 
 
-We believe in the potential of DAOs. That building spaces where people have the freedom to solve meaningful problems will create meaningful results. Individuals, when spurred to action through a common accord, approach their full potential.
+Because when DAOs win, we all win.
 
-We also believe that in order to get there, we need reliable and sustainable structures, tailor-fit to the people inside them. These structures need to foster alignment inside the DAO so it can meaningfully impact the outside world.
+It's that simple. We believe in the massive potential of DAOs and we're working to help them win, however we can.
 
-Most importantly, DAOs must be competent. We believe that in order for DAOs to change the world, they must first share and delight in a rich collection of well-earned wins.
-
-**Our mission is to help DAOs win. Because when DAOs win, we all win.**
-
-## What We Offer
+## How we can help your DAO
 
 ### DAO Design
 
-We design functional DAOs that help communities make decisions, coordinate, and grow. We gather input from the community and help them define their mission, vision, and values. Then we build the mechanisms that make it possible.
+We start with your idea, existing organization or DAO. DAO Masons will design a functional DAO with a governance surface that helps you make decisions, coordinate, and grow. We gather input from your team and community. We help you define your mission, vision, and values and the mechanisms that help you stay aligned and moving toward meaningful outcomes. 
 
 ### Development
 
-DAOs are unique. By crafting custom DAO applications and tools, we are able to let the community focus on what matters most: the mission.
+DAOs are unique. DAO Masons will craft custom DAO applications and tools for your DAO based on your unique needs. Our aim is to help your team focus on what matters most: the mission.
 
 ### Education
 
-In order for governance to be accessible to all members, they need know what game they are playing, and how to play it well. We provide workshops and cohorts to turn every member into a power-user.
+We provide workshops and cohorts to turn every member into a power-user. In order for governance to be accessible to all members, they need know what game they are playing, and how to play it well. 
 
 ### Products
 
-Some problems are common to many DAOs. Our goal is to maximize the value we create for the ecosystem by refactoring our custom service solutions into scalable, modular products.
+ Our goal is to maximize the value we create for the DAO ecosystem so we refactor some of our custom service solutions into scalable, modular products accessible to everyone.
 
+
+--- 
 ### Current State of This Page
 
 - [ ] Empty
