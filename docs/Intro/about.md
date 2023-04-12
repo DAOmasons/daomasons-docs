@@ -4,17 +4,19 @@ sidebar_label: 'About'
 
 # DAO Masons
 
-### Our mission is to help DAOs win. 
+### Our mission is to help DAOs win.
 
 Because when DAOs win, we all win.
 
 It's that simple. We believe in the massive potential of DAOs and we're working to help them win, however we can.
 
+Ready for your next win? Contact us for a [free consultation](https://buvld99oreh.typeform.com/to/QAzLnvZJ).
+
 ## How we can help your DAO
 
 ### DAO Design
 
-We start with your idea, existing organization or DAO. DAO Masons will design a functional DAO with a governance surface that helps you make decisions, coordinate, and grow. We gather input from your team and community. We help you define your mission, vision, and values and the mechanisms that help you stay aligned and moving toward meaningful outcomes. 
+We start with your idea, existing organization or DAO. DAO Masons will design a functional DAO with a governance surface that helps you make decisions, coordinate, and grow. We gather input from your team and community. We help you define your mission, vision, and values and the mechanisms that help you stay aligned and moving toward meaningful outcomes.
 
 ### Development
 
@@ -22,14 +24,14 @@ DAOs are unique. DAO Masons will craft custom DAO applications and tools for you
 
 ### Education
 
-We provide workshops and cohorts to turn every member into a power-user. In order for governance to be accessible to all members, they need know what game they are playing, and how to play it well. 
+We provide workshops and cohorts to turn every member into a power-user. In order for governance to be accessible to all members, they need know what game they are playing, and how to play it well.
 
 ### Products
 
- Our goal is to maximize the value we create for the DAO ecosystem so we refactor some of our custom service solutions into scalable, modular products accessible to everyone.
+Our goal is to maximize the value we create for the DAO ecosystem so we refactor some of our custom service solutions into scalable, modular products accessible to everyone.
 
+---
 
---- 
 ### Current State of This Page
 
 - [ ] Empty

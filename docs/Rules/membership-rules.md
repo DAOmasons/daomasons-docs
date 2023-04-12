@@ -4,7 +4,7 @@ sidebar_label: 'Membership Rules'
 
 # Membership Rules
 
-As outlined in the [Join DAO Masons](/Intro/join) page, there are two distinct paths for contributors to work with DAO Masons:
+As outlined in the [Join DAO Masons](/Intro/join) page, there are two distinct paths for contribution within DAO Masons.
 
 ## Contributor
 
@@ -14,8 +14,8 @@ Contributors are focused primarily on building cool projects and earning. They a
 - However, Contributors cannot be [Team Leads](/Rules/projects#project-leads) on Projects.
 - There is no time limit on how long people can work as Contributors. Contributors are free to build and earn as long as they like without any expectations of engaging in DAO Masons governance. However, if a contributor wants to become a [Core Member](/Rules/membership-rules#core-member), there is a clear and fair track for doing so.
 - There is no pay disparity between Core Members and Contributors.
-    - Contributors may not hold Voting Shares within DAO Masons but they may hold Loot Shares
-    - Loot Shares (and Voting Shares) expose Contributors to the [Echo Fund](/Rituals/ritual-of-echoes)
+  - Contributors may not hold Voting Shares within DAO Masons but they may hold Loot Shares
+  - Loot Shares (and Voting Shares) expose Contributors to the [Echo Fund](/Rituals/ritual-of-echoes)
 - Contributors are typically brought on to make contributions to [External Projects](/Rules/projects#internal-or-external-project)
 - Contributors are also free to make contributions to [Internal Projects](/Rules/projects#internal-or-external-project) (DAO Mason Products, DAO upgrades and maintenance, etc.)
 - Contributors can receive exposure to the [Echo Fund](/Rituals/ritual-of-echoes) just like Core Members. The only difference is that Contributors receive non-voting Loot Shares, whereas Core Members receive Voting Shares.

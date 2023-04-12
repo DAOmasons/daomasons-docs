@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/dm-ico.ico',
   markdown: {
-    mermaid: true
+    mermaid: true,
   },
   themes: ['@docusaurus/theme-mermaid'],
   // Even if you don't use internalization, you can use this field to set useful
@@ -24,9 +24,15 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-  plugins: ["docusaurus-plugin-less", [require.resolve('docusaurus-lunr-search'), {
-    indexBaseUrl: true
-  }]],
+  plugins: [
+    'docusaurus-plugin-less',
+    [
+      require.resolve('docusaurus-lunr-search'),
+      {
+        indexBaseUrl: true,
+      },
+    ],
+  ],
   presets: [
     [
       'classic',
@@ -42,8 +48,7 @@ const config = {
           breadcrumbs: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/DAOmasons/docs',
+          editUrl: 'https://github.com/DAOmasons/docs',
         },
         blog: false,
         theme: {
@@ -60,7 +65,7 @@ const config = {
         logo: {
           alt: 'DAO Masons',
           src: 'img/dm-logo.svg',
-          href: '/Intro/about'
+          href: '/Intro/about',
         },
         items: [
           {
@@ -74,15 +79,6 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Get started',
-                to: '/landing',
-              },
-            ],
-          },
-          {
             title: 'Community',
             items: [
               {
@@ -94,7 +90,7 @@ const config = {
                 href: 'https://twitter.com/daomasons',
               },
             ],
-          }
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} DAO Masons.`,
       },
@@ -103,8 +99,8 @@ const config = {
         darkTheme: darkCodeTheme,
       },
       announcementBar: {
-        id: "banner",
-        content: `DAO Masons is officially open for business! <a rel="noopener noreferrer" href='https://www.daomasons.com/#services/'>Schedule a free consulation.</a>`,
+        id: 'banner',
+        content: `DAO Masons is officially open for business! <a rel="noopener noreferrer" href='https://buvld99oreh.typeform.com/to/QAzLnvZJ'>Schedule a free consulation.</a>`,
         backgroundColor: 'rgb(8 53 117)',
         textColor: 'white',
         isCloseable: false,

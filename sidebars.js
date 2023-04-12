@@ -16,7 +16,6 @@ module.exports = {
         'Rules/gov-overview',
         'Rules/dao-types',
         'Rules/membership-rules',
-        'Rules/dao-roles',
         'Rules/decision-making',
         'Rules/proposals',
         'Rules/projects',
@@ -43,10 +42,11 @@ module.exports = {
       type: 'category',
       label: 'Templates',
       items: [
-        'Templates/project-proposal', 
-        'Templates/ritual', 
-        'Templates/core-member-agreement', 
-        'Templates/contributor-agreement'
+        'Templates/project-proposal',
+        'Templates/ritual',
+        'Templates/core-member-agreement',
+        'Templates/contributor-agreement',
       ],
     },
-  ]}
+  ],
+};

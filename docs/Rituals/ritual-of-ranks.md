@@ -2,15 +2,15 @@
 
 ## Essence
 
-Ritual of Ranks is how we keep track of the roles that each member has completed on a project.
+Ritual of Ranks is how we keep track of member accomplishments. We primarily track completed projects, awarding a badge for the roles that were filled during the Project.
 
-At the beginning of a project (proposal phase), we create outlines for each worker's roles on the project. Then once the project is over, the team lead mints/records (spreadsheet for now, eventually through SBTs) the role as a badge. This works as a point system, to see who could be most eligible to work on the next project.
+At the beginning of a project (proposal phase), we create outlines for each role needed for the project. When the project is over, the Project Lead mints/records (spreadsheet for now, eventually through SBTs) the role as a badge. This works as an internal reputation system for DAO Masons and could be tied to compensation in the future. For instance, a proposal could be made to award Loot Shares to past Project Leads or role fillers for particularly successful projects.
 
 ## Current Implementation
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1dOYDqJTV5oJSYJo64eZbIqWJFmTqWHtDQcHmz-31DOU/edit?usp=sharing).
 
-We are currently in the unimplemented/manual stage for this ritual. We are currently using a spreadsheet to keep track of all the roles that each member has completed, as well as some other useful metrics.
+We are currently in the unimplemented/manual stage for this ritual. We are currently using a spreadsheet to keep track of all the roles that each member has filled, as well as some other useful metrics.
 
 - Project Worked
 - Time Spent on project
@@ -18,29 +18,25 @@ We are currently in the unimplemented/manual stage for this ritual. We are curre
 
 ## Why?
 
-In order for team leads to make informed decisions about their team during the selection process, it might be helpful to have some sort of information about how many projects each member has completed, and how many they have completed under a certain role.
+In order for Project Leads to make informed decisions about their team during the selection process, it might be helpful to have some sort of information about how many projects each member has completed, and how many they have completed under a certain role.
 
-For example, if a team lead is looking for a designer, it would useful to have some sort of resource to identify who has done the most design work within the DAO.
-
-Also, this system can help organize project teams by roles a clear division of labour during production.
+For example, if a Project Leads is looking for a designer, it would useful to have some sort of resource to identify who has done the most design work within the DAO.
 
 #### What problem are we solving
 
 - We sometimes don't know who to choose for a project
-- Team selection if opaque, can sometime create tensions without an objective selection metric.
+- Team selection is opaque, can sometime create tensions without an objective selection metric.
 - Without clear divisions of labour, we risk conflicts and redundant work.
+- As projects close, we lose track of who made which contributions.
 
 #### Why is this a good solution
 
 - Helps inventory skills within the DAO and helps team leads make informed decisions
 - Creates a clear division of labour during production
 - Can provide transparency over why certain DAO members are selected over others.
+- Creates an additional non-financial reward for Contributors
 
 #### Downsides/Risks
-
-The current implementation of the Ritual of Ranks presents some downsides and risks that may need to be addressed for it to be more effective and fair.
-
-Current downsides:
 
 - Not purely objective.
 - Some projects are longer than others
