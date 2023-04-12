@@ -6,9 +6,7 @@ sidebar_label: 'Ritual of Oaths'
 
 ## Essence
 
-- Each DAO Mason creates a [**Core Member Agreement**](/Templates/core-member-agreement) to codify their commitments to their peers. This document forms the foundation of a DAO Mason's commitment to themselves and the DAO.
-
-- The DAO provides a Rulebook (you are reading it now) and the defines the process by which these rules may change. Each DAO Mason must testify they have read and understood the Rulebook and the Core Member Agreement.
+The Ritual of Oaths provides a baseline of trust and accountability among all members through clear agreements and commitments.
 
 ## Current Implementation
 
@@ -17,8 +15,6 @@ sidebar_label: 'Ritual of Oaths'
 - The DAO provides a Rulebook (you are reading it now) and an Operating Agreement that includes the process by which these rules may change. Each DAO Mason must testify they have read and understood the Rulebook and the Operating Agreement in their **Core Member Agreement**
 
 ## Why?
-
-The Ritual of Oaths provides a baseline of trust and accountability among all members.
 
 The Ritual of Oaths was inspired by various ancient and modern traditions that emphasize the importance of oaths and agreements in fostering trust, loyalty, and collaboration among individuals and groups. The Ritual of Oaths was designed to adapt these principles to the unique context of DAOs, addressing the specific challenges they face.
 
