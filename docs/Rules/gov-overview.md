@@ -4,6 +4,9 @@ sidebar_label: 'Governance Overview'
 
 # Governance Overview
 
+import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
+
+<DraftExpectationsPartial />
 DAO Masons is a decentralized organization focused on building DAO products and offering DAO-related services. Our approach to governance emphasizes **efficiency**, **collaboration**, and **adaptability**.
 
 This document outlines our governance structure and how we manage decision-making within the organization.

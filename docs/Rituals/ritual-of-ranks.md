@@ -1,4 +1,11 @@
-# Ritual of Ranks
+---
+sidebar_label: 'Ritual of Ranks'
+title: 'Ritual of Ranks'
+---
+
+import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
+
+<DraftExpectationsPartial />
 
 ## Essence
 

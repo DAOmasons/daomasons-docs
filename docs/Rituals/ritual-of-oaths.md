@@ -1,8 +1,11 @@
 ---
 sidebar_label: 'Ritual of Oaths'
+title: 'Ritual of Oaths'
 ---
 
-# Ritual of Oaths
+import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
+
+<DraftExpectationsPartial />
 
 ## Essence
 

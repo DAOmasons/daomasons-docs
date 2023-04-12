@@ -1,4 +1,11 @@
-# Ritual of Light
+---
+sidebar_label: 'Ritual of Light'
+title: 'Ritual of Light'
+---
+
+import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
+
+<DraftExpectationsPartial />
 
 ## Essence
 

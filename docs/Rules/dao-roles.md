@@ -4,6 +4,9 @@ sidebar_label: 'DAO Roles'
 
 # DAO Roles
 
+import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
+
+<DraftExpectationsPartial />
 Roles at DAO Masons represent a number of different things.
 
 Discord Roles

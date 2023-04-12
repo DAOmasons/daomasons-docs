@@ -2,7 +2,11 @@
 sidebar_label: 'About'
 ---
 
-# DAO Masons
+# About DAO Masons
+
+import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
+
+<DraftExpectationsPartial />
 
 ### Our mission is to help DAOs win.
 

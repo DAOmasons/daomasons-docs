@@ -4,7 +4,10 @@ sidebar_label: Proposals
 
 # Proposal Process for DAO Masons
 
-Major decisions within the DAO begin with a Proposal created using one of the Proposal Templates. 
+import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
+
+<DraftExpectationsPartial />
+Major decisions within the DAO begin with a Proposal created using one of the Proposal Templates.
 
 There are 3 main types of proposal:
 
@@ -12,13 +15,13 @@ There are 3 main types of proposal:
 1. Membership Proposals
 1. Governance and Operations Proposals
 
-While any Contributor can create a proposal, all proposals must be sponsored by a Core Member before voting begins. 
+While any Contributor can create a proposal, all proposals must be sponsored by a Core Member before voting begins.
 
-In almost all cases the proposal process requires: 
+In almost all cases the proposal process requires:
+
 1. a complete Proposal Template posted on the [Governance Forums](https://commonwealth.im/dao-masons/discussions)
 1. a 1 week review period
 1. a DAO vote, typically a 5 day voting period with a 3 day ragequit grace period
-
 
 ## Project Proposals
 
@@ -27,17 +30,15 @@ In almost all cases the proposal process requires:
 
 ## Member Proposals
 
-1. A Core Membership Proposal is required for a Contributor to become a Core Member. 
-1. See [Join DAO Masons](/Intro/join) for more information on how to join DAO Masons. 
+1. A Core Membership Proposal is required for a Contributor to become a Core Member.
+1. See [Join DAO Masons](/Intro/join) for more information on how to join DAO Masons.
 
 ## Governance and Operations Proposals
 
 These types of proposals are generally only made by Core Members, however there may be times when fresh eyes see opportunities to improve our Governance and Operations and we certainly welcome proposals to do so.
 
-
-
 1. **Attempt Consensus at Meetings**
-   - We should be able to make small offers and proposals to each other, and handle most decisions informally. 
+   - We should be able to make small offers and proposals to each other, and handle most decisions informally.
    - We can often decide whether to move forward by consensus or consent during our meetings.
    - Most small expenses can be agreed upon via consensus however any sums that would be considered somewhat large, should be recorded in the governance forums. This can be determined during meetings.
    - If we can't manage this, we can rely on the [Decision Making Process](/Rules/decision-making)
@@ -58,8 +59,8 @@ As is the case in all Moloch DAOs, a member may Rage Quit during the Grace Perio
 
 Rage Quit is not an option if you currently have "Yes" votes that have not been executed yet.
 
-
 ---
+
 ### Current State of This Page
 
 - [ ] Empty

@@ -4,6 +4,9 @@ sidebar_label: 'Membership Rules'
 
 # Membership Rules
 
+import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
+
+<DraftExpectationsPartial />
 As outlined in the [Join DAO Masons](/Intro/join) page, there are two distinct paths for contribution within DAO Masons.
 
 ## Contributor
