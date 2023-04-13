@@ -53,7 +53,7 @@ Core Members also work on projects and earn, but they are also deeply committed 
 
 #### Read More:
 
-- [DAO Structure](/Rules/dao-structure)
+- [DAO Structure](/Rules/dao-types)
 - [Ritual of Acumen](/Rituals/ritual-of-acumen)
 - [Ritual of Oaths](/Rituals/ritual-of-oaths)
 
