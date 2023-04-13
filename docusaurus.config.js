@@ -2,8 +2,10 @@
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+console.log('lightCodeTheme', lightCodeTheme.styles[0]);
+const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+console.log('darkCodeTheme', darkCodeTheme);
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'DAO Masons - Governance docs',
@@ -101,7 +103,7 @@ const config = {
       announcementBar: {
         id: 'banner',
         content: `DAO Masons is officially open for business! <a rel="noopener noreferrer" href='https://buvld99oreh.typeform.com/to/QAzLnvZJ'>Schedule a free consulation.</a>`,
-        backgroundColor: 'rgb(8 53 117)',
+        backgroundColor: '#00CAFF',
         textColor: 'white',
         isCloseable: false,
       },

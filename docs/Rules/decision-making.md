@@ -7,6 +7,7 @@ sidebar_label: 'Decision Making'
 import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
 
 <DraftExpectationsPartial />
+
 ## Who Decides?
 
 - Core Members make [Core DAO](docs/Rules/core-dao) decisions through Moloch DAO [Proposals](docs/Rules/proposals)

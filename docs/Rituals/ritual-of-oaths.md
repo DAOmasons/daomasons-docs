@@ -48,6 +48,21 @@ Future improvements could be to put the Ritual of Oaths agreements on-chain, alo
 
 A directory page with all of the members who have taken the Ritual of Oaths. More granular Oaths and Agreements that can be used in different contexts - such as an Oath for the duration of a project, or a 1-month challenge oath. Combining this with a completed Ritual of Ranks will be the endgame for Ritual of Oaths.
 
+## Details
+
+<!-- _(Optional)_ -->
+
+This section provides further insight into the creation and implementation of the Ritual of Oaths.
+
+**Inspiration:** The Ritual of Oaths was inspired by various ancient and modern traditions that emphasize the importance of oaths and agreements in fostering trust, loyalty, and collaboration among individuals and groups. Drawing from these rich sources, the Ritual of Oaths was designed to adapt these principles to the unique context of decentralized organizations, addressing the specific challenges they face.
+
+**Best Practices:** In implementing the Ritual of Oaths, it is essential to ensure that the process is transparent, inclusive, and accessible to all members. To achieve this, consider the following best practices:
+
+- Encourage open and honest communication among DAO Masons when discussing and negotiating their agreements.
+- Provide support and resources for members to better understand the principles and expectations set forth in the Rulebook and Operating Agreement.
+- Regularly review and update the Ritual of Oaths to ensure its continued relevance and effectiveness as the DAO evolves.
+  > > > > > > > tuesday
+
 ---
 
 ##### Current Stage of Development
@@ -67,4 +82,3 @@ A directory page with all of the members who have taken the Ritual of Oaths. Mor
 - [x] Editing passes: 3
 - [ ] Final Draft
 - [ ] Ratified
-  > > > > > > > 39f6d9e630591acaf222f9e9a86e53bb87a1d201

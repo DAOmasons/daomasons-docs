@@ -7,7 +7,8 @@ sidebar_label: 'Projects'
 import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
 
 <DraftExpectationsPartial />
-* **Projects** are the **primary unit of work** within DAO Masons. All compensated work occurs within the context of a Project.
+
+- **Projects** are the **primary unit of work** within DAO Masons. All compensated work occurs within the context of a Project.
 
 - **Any Core Member** can create a **[Project Proposal](../Templates/project-proposal)** to initiate a new Project.
 
