@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Ritual of Acumen'
-title: 'Ritual of EcAcumenhoes'
+title: 'Ritual of Acumen'
 ---
 
 import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
