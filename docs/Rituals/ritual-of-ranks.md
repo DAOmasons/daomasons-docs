@@ -15,8 +15,6 @@ At the beginning of a project (proposal phase), we create outlines for each role
 
 ## Current Implementation
 
-[Spreadsheet](https://docs.google.com/spreadsheets/d/1dOYDqJTV5oJSYJo64eZbIqWJFmTqWHtDQcHmz-31DOU/edit?usp=sharing).
-
 We are currently in the unimplemented/manual stage for this ritual. We are currently using a spreadsheet to keep track of all the roles that each member has filled, as well as some other useful metrics.
 
 - Project Worked
