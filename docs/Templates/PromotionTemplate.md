@@ -1,5 +1,14 @@
 # Promotion Template
 
+This template is used to promote a Contributor to Core Member. This template is reviewed by the DAO and approved or denied. If approved, the template becomes the agreement that the DAO uses to promote the Contributor.
+
+Promotion results in any non-voting loot shares to be converted to voting shares.
+
+```markdown
+# Promotion Proposal
+
+### Proposer
+
 - **Submitted By:** Name or pseudo of the person submitting the proposal
 - **Date:**
 
@@ -23,3 +32,4 @@
   (Link to the applicant's completed Ritual of Oaths)
 
 ### Additional Information/Considerations
+```

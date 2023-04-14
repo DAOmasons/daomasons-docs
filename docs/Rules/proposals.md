@@ -58,7 +58,7 @@ These types of proposals are generally only made by Core Members, however there 
 
 ## Rage Quit
 
-As is the case in all Moloch DAOs, a member may Rage Quit during the Grace Period. This will convert the members shares into their fair share of tokens in the main treasury. Funds in Project Treasury or otherwise already allocted are not subject to Rage Quit.
+As is the case in all Moloch DAOs, a member may Rage Quit during the Grace Period. This will convert the members shares into their fair share of tokens in the main treasury. Funds in Project Treasury or otherwise already allocated are not subject to Rage Quit.
 
 Rage Quit is not an option if you currently have "Yes" votes that have not been executed yet.
 

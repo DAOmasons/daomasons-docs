@@ -1,5 +1,14 @@
 # Demotion Template
 
+This template is used to demote a Core Member to Contributor. This template is reviewed by the DAO and approved or denied. If approved, the template becomes the agreement that the DAO uses to demote the Core Member.
+
+Demotion results in voting shares to be converted to non-voting loot shares.
+
+```markdown
+# Demotion Proposal
+
+### Proposer
+
 - **Submitted By:** Name or pseudo of the person submitting the proposal
 - **Date:**
 
@@ -21,3 +30,4 @@
 _(Provide evidence of the reason for demotion, ex. Links to agreements, contribution records, etc.)_
 
 ### Additional Information/Considerations
+```
