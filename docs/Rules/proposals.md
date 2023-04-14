@@ -30,8 +30,11 @@ In almost all cases the proposal process requires:
 
 ## Member Proposals
 
-1. A Core Membership Proposal is required for a Contributor to become a Core Member.
+1. A [Promotion Proposal](/Templates/PromotionTemplate) is required for a Contributor to become a Core Member.
 1. See [Join DAO Masons](/Intro/join) for more information on how to join DAO Masons.
+1. A [Demotion Proposal](/Templates/DemotionTemplate) is required to demote a Core Member to Contributor. For more information on how or why a Core Member would be demoted, see [Demotion](/Rules/membership-rules#demotion).
+
+For more information regarding all the rules and expectations of Core Members and contributors see [Core Member Rules](/Rules/membership-rules).
 
 ## Governance and Operations Proposals
 
@@ -43,7 +46,7 @@ These types of proposals are generally only made by Core Members, however there 
    - Most small expenses can be agreed upon via consensus however any sums that would be considered somewhat large, should be recorded in the governance forums. This can be determined during meetings.
    - If we can't manage this, we can rely on the [Decision Making Process](/Rules/decision-making)
    - If consensus is not reached then a formal proposal can be put on the Governance Forum.
-   - Any major governance changes or fundemental changes to operating procedures should have a written long form discussion in our governance forums.
+   - Any major governance changes or fundamental changes to operating procedures should have a written long form discussion in our governance forums.
 2. **Discussion Stage**
    - A detailed forum post should be placed in our [Governance Forums](https://commonwealth.im/dao-masons/discussions). Discussion period will last for 1 week.
    - After this time for discussion has passed, record of the decision must be carried out as a DAO vote.
@@ -65,6 +68,6 @@ Rage Quit is not an option if you currently have "Yes" votes that have not been 
 
 - [ ] Empty
 - [ ] Rough Draft
-- [x] Editing passes: 2
+- [x] Editing passes: 3
 - [ ] Final Draft
 - [ ] Ratified

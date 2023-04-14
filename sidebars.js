@@ -43,6 +43,8 @@ module.exports = {
       label: 'Templates',
       items: [
         'Templates/project-proposal',
+        'Templates/PromotionTemplate',
+        'Templates/DemotionTemplate',
         'Templates/ritual',
         'Templates/core-member-agreement',
         'Templates/contributor-agreement',

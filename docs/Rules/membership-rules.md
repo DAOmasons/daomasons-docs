@@ -51,7 +51,7 @@ The process where a Contributor becomes a Core Member is called a Promotion. In 
 1. Acquire an active DAO Mason core member as a Sponsor
 1. Complete the [Ritual of Acumen](/Rituals/ritual-of-acumen)
 1. Complete the [Ritual of Oaths](/Rituals/ritual-of-oaths)
-1. Be voted in by the DAO Masons Core Members using this [template](/Templates/promotion-template)
+1. Be voted in by the DAO Masons Core Members using this [template](/Templates/PromotionTemplate)
 
 Once a contributor has been promoted, they are a full DAO Masons Core Member and can vote on all DAO Masons governance decisions. Any loot they have earned through contributions to DAO Masons will be converted to voting shares.
 
@@ -65,7 +65,7 @@ Here are some of the reasons why a Core Member may be demoted:
 
 - **Inactivity**: If a Core Member is not active in DAO governance (without explanation), they should be demoted to Contributor status. Again, this is done to ensure that DAO can govern effectively without having to wait on inactive participants. If the inactive member wishes to return, they DAO can vote to promote them back to Core Member status.
 
-- **Unethical behavior**: If a Core Member is found to be engaging in unethical behavior, they should be demoted to Contributor status. Generally, 'unethical behavior' is defined as any behavior that is in breach of their Core Member agreement [Ritual of Oaths](/Rituals/ritual-of-oaths). If this is the reason for demotion, the proposal to demote should include references to this behavior in the [Demotion Proposal](/docs/Templates/DemotionTemplate).
+- **Unethical behavior**: If a Core Member is found to be engaging in unethical behavior, they should be demoted to Contributor status. Generally, 'unethical behavior' is defined as any behavior that is in breach of their Core Member agreement [Ritual of Oaths](/Rituals/ritual-of-oaths). If this is the reason for demotion, the proposal to demote should include references to this behavior in the [Demotion Proposal](/Templates/DemotionTemplate).
 
 - **Project Abandonment**: We fully expect all core members to complete any projects they commit to. If a Core Member abandons a project, they should be demoted to Contributor status.
 
