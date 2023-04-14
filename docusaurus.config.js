@@ -105,7 +105,7 @@ const config = {
         id: 'banner',
         content: `DAO Masons is officially open for business! <a rel="noopener noreferrer" href='https://buvld99oreh.typeform.com/to/QAzLnvZJ'>Schedule a free consulation.</a>`,
         backgroundColor: '#00CAFF',
-        textColor: 'white',
+        textColor: 'black',
         isCloseable: false,
       },
     }),
