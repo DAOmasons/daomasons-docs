@@ -1,28 +1,29 @@
 ---
 sidebar_label: 'Ritual of Oaths'
+title: 'Ritual of Oaths'
 ---
 
-# Ritual of Oaths
+import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
 
-- Each DAO Mason creates a **Core Member Agreement** to codify their commitments to their peers. This document forms the foundation of a DAO Mason's commitment to themselves and the DAO.
+<DraftExpectationsPartial />
 
-- The DAO provides a Rulebook (you are reading it now), an Operating Agreement and the process by which these rules may change. Each DAO Mason must testify they have read and understood the Rulebook and the Operating Agreement.
+## Essence
+
+The Ritual of Oaths provides a baseline of trust and accountability among all members through clear agreements and commitments.
 
 ## Current Implementation
 
-- Each DAO Masons creates a [**Core Member Agreement**](Templates/core-member-agreement) to codify their commitments to their peers. This document forms the foundation of a DAO Mason's commitment to themselves and the DAO.
+- Each DAO Masons creates a [**Core Member Agreement**](/Templates/core-member-agreement) to codify their commitments to their peers. This document forms the foundation of a DAO Mason's commitment to themselves and the DAO.
 
 - The DAO provides a Rulebook (you are reading it now) and an Operating Agreement that includes the process by which these rules may change. Each DAO Mason must testify they have read and understood the Rulebook and the Operating Agreement in their **Core Member Agreement**
 
 ## Why?
 
-The Ritual of Oaths provides a baseline of trust and accountability among all members.
+The Ritual of Oaths was inspired by various ancient and modern traditions that emphasize the importance of oaths and agreements in fostering trust, loyalty, and collaboration among individuals and groups. The Ritual of Oaths was designed to adapt these principles to the unique context of DAOs, addressing the specific challenges they face.
 
 #### What problems are we solving
 
 The Ritual of Oaths helps us avoid the common tendency for people to shift responsibility away from themselves to claim ignorance of basic agreements and expectations. Instead, we have clear agreements we can refer to if and when conflict arises.
-
-If and when conflict arises, the Ritual of Oaths provides a baseline of agreement that we can return to as a starting place to resolve it.
 
 Without concrete, verifiable declarations and agreements from our members, we can never be sure what we and they are committed to.
 
@@ -37,39 +38,15 @@ The Core Member Agreement includes references to our principles and expectations
 
 ## Roadmap
 
-```
-\\ more chatgpt starting point
+The Ritual of Oaths has a lot of potential as a personal development tool. By solidifying our individual commitments and asking to be held accountable to them, we can help each other grow as professionals.
 
-The future of the Ritual of Oaths aims to strengthen trust and accountability within the DAO, while ensuring that the process remains accessible and efficient for all members. To achieve these goals, we have outlined a roadmap with key milestones and objectives:
+The Ritual of Oaths could grow with periodic reviews of our agreements, where we have the opportunity to review and potentially deepen our commitment. This process gives others the opportunity to learn from and be inspired by others.
 
-- Improved Onboarding Process: We will work on streamlining the onboarding process for new DAO Masons, making it easier for them to create and submit their Core Member Agreement while understanding the Rulebook and Operating Agreement.
-- Platform Integration: To enhance user experience and accessibility, we plan to integrate the Ritual of Oaths into the DAO's main platform or website, allowing members to create, view, and manage their agreements within a single, centralized location.
-- Conflict Resolution Guidelines: To further facilitate trust and accountability, we will develop a set of guidelines for addressing conflicts and disagreements that may arise among DAO Masons. These guidelines will provide a framework for resolving disputes in a fair, transparent, and efficient manner.
-- Ongoing Review and Updates: As the DAO evolves, it is essential to ensure that the Ritual of Oaths remains relevant and effective. We will regularly review and update the Rulebook, Operating Agreement, and Core Member Agreement template to reflect the changing needs and priorities of the DAO.
-- Education and Community Building: We will focus on providing educational resources, hosting workshops, and organizing events that promote the Ritual of Oaths' core principles of trust and accountability. This will help build a strong, engaged community of DAO Masons who are committed to upholding the values set forth in their agreements.
-
-By following this roadmap, we aim to make the Ritual of Oaths an integral part of the DAO's culture, fostering a sense of shared responsibility, trust, and accountability among its members.
-
-```
+Future improvements could be to put the Ritual of Oaths agreements on-chain, along with some integration with [Ritual of Ranks](/Rituals/ritual-of-ranks) to record progress.
 
 ### Endgame
 
-```
-// more chatgpt starting points
-
-The ultimate goal for the Ritual of Oaths is to establish a strong foundation of trust, accountability, and commitment within the DAO, leading to a thriving, collaborative community where members can effectively work together and achieve the organization's objectives.
-
-To reach this goal, we envision the following outcomes:
-
-- Widespread Adoption: The Ritual of Oaths becomes a well-known and respected process, with its principles and guidelines adopted not only within our own DAO but also by other decentralized organizations seeking to foster trust and accountability among their members.
-- Transparent and Fair Governance: By establishing clear expectations and commitments through the Core Member Agreements, the Ritual of Oaths paves the way for transparent and fair governance within the DAO, ensuring that all members have a voice and can actively participate in decision-making processes.
-- Effective Conflict Resolution: Armed with a solid framework of agreements and a set of conflict resolution guidelines, the DAO can address and resolve disputes in a manner that respects the commitments made by its members, maintaining a harmonious and productive working environment.
-- Strong Community Values: The Ritual of Oaths becomes synonymous with a culture of integrity, trust, and mutual respect among DAO Masons, inspiring members to uphold their agreements and contribute to the betterment of the community.
-- Innovation and Growth: As the trust and accountability fostered by the Ritual of Oaths permeate the DAO, members can confidently collaborate, innovate, and tackle ambitious projects, driving the organization's growth and success in the decentralized ecosystem.
-
-By achieving these outcomes, the Ritual of Oaths will have accomplished its endgame, contributing to the formation of a resilient, vibrant, and purpose-driven community within the DAO and beyond.
-
-```
+A directory page with all of the members who have taken the Ritual of Oaths. More granular Oaths and Agreements that can be used in different contexts - such as an Oath for the duration of a project, or a 1-month challenge oath. Combining this with a completed Ritual of Ranks will be the endgame for Ritual of Oaths.
 
 ## Details
 
@@ -84,6 +61,7 @@ This section provides further insight into the creation and implementation of th
 - Encourage open and honest communication among DAO Masons when discussing and negotiating their agreements.
 - Provide support and resources for members to better understand the principles and expectations set forth in the Rulebook and Operating Agreement.
 - Regularly review and update the Ritual of Oaths to ensure its continued relevance and effectiveness as the DAO evolves.
+  > > > > > > > tuesday
 
 ---
 

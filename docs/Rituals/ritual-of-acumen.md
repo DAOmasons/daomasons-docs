@@ -1,4 +1,11 @@
-# Ritual of Acumen
+---
+sidebar_label: 'Ritual of Acumen'
+title: 'Ritual of Acumen'
+---
+
+import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
+
+<DraftExpectationsPartial />
 
 ## Essence
 
@@ -6,7 +13,7 @@ This is a system for testing the acumen of potential core members. It is a test 
 
 ## Current Implementation
 
-Prospective members must appear before a panel of at least 3 DAO Mason Core Members, where they will be challenged to think critically, communicate effectively and display their understanding of DAO Masons processes.  Each member of the panel provides an assessment to the DAO preceding a DAO vote. 
+Prospective members must appear before a panel of at least 3 DAO Mason Core Members, where they will be challenged to think critically, communicate effectively and display their understanding of DAO Masons processes. Each member of the panel provides an assessment to the DAO preceding a DAO vote.
 
 ## Why?
 
@@ -67,6 +74,7 @@ Automation is risky because we don't want to create a system that is too easy to
 (none yet. Add resources for testing here.)
 
 ---
+
 ##### Current Stage of Development
 
 - [x] Unimplemented
@@ -75,8 +83,8 @@ Automation is risky because we don't want to create a system that is too easy to
 - [ ] Partially Automated
 - [ ] Fully Automated/Passive
 
+---
 
---- 
 ### Current State of This Page
 
 - [ ] Empty

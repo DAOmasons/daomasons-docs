@@ -4,10 +4,14 @@ sidebar_label: 'Decision Making'
 
 # How We Make Decisions
 
+import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
+
+<DraftExpectationsPartial />
+
 ## Who Decides?
 
-- Core Members make [Core DAO](docs/Rules/core-dao) decisions through Moloch DAO [Proposals](docs/Rules/proposals)
-- Project Leads make [Project](docs/Rules/projects) decisions through a mix of soft consensus, voting within their Project DAO, or not voting at all.
+- Core Members make [Core DAO](/Rules/dao-types) decisions through Moloch DAO [Proposals](/Rules/proposals)
+- Project Leads make [Project](/Rules/projects) decisions through a mix of soft consensus, voting within their Project DAO, or not voting at all.
   - In projects, whether or not a decision is made through soft consensus or voting is determined by the Project Lead.
   - Project leads can also choose to not vote on decisions altogether, even if there is a disagreement.
   - However, the team may motion to replace a project lead if necessary.
@@ -19,15 +23,15 @@ The Core DAO makes decisions that fall within the Core DAO scope. This includes:
 
 - **Projects**. What client work the DAO agrees to take on as well as internal projects.
   - This includes examining who is working on the project, its scope, worth, and the Project Lead.
-  - This is all summarized in a [Project Request](docs/Templates/project-proposal) that is submitted prior to the meeting.
+  - This is all summarized in a [Project Request](/Templates/project-proposal) that is submitted prior to the meeting.
   - DAO Members are expected to have reviewed the Project Proposal before the meeting.
 - **Promotions**. Promoting Contributors to Core Members.
-  - [A Promotion Request](docs/Templates/promotion-request) should be submitted prior to the meeting.
-  - The DAO decides whether or not the member in question meets the [promotion criteria](docs/Rules/dao-structure).
+  - [A Promotion Request](/Rules/membership-rules#how-to-become-a-contributor) should be submitted prior to the meeting.
+  - The DAO decides whether or not the member in question meets the [promotion criteria](/Rules/membership-rules#core-member).
   - DAO Members are expected to have reviewed the Promotion Request before the meeting.
 - **Demotions** Demoting Core Members to Contributors.
-  - [A Demotion Request](docs/Templates/promotion-request) should be submitted prior to the meeting.
-  - The DAO reviews the member in question and makes sure that the member in question meets the [demotion criteria](docs/Rules/dao-structure).
+  - [A Demotion Request](/Rules/membership-rules#how-to-become-a-contributor) should be submitted prior to the meeting.
+  - The DAO reviews the member in question and makes sure that the member in question meets the [demotion criteria](/Rules/membership-rules#core-member).
   - DAO Members are expected to have reviewed the Demotion Request before the meeting.
 - **Core DAO Structure**. Changes to the Core DAO structure.
   - This includes changes to any of the DAO rules or operating procedures.

@@ -4,7 +4,10 @@ sidebar_label: 'Values'
 
 # Our Values
 
-Help DAOs Win. One Win at a Time.
+import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
+
+<DraftExpectationsPartial />
+### Help DAOs Win. One Win at a Time.
 
 ### Support Sovereign Communities
 

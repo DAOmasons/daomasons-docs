@@ -4,6 +4,9 @@ sidebar_label: 'Join DAO Masons'
 
 # Join DAO Masons
 
+import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
+
+<DraftExpectationsPartial />
 DAO Masons is looking for highly motivated, passionate DAO builders to join our ranks. We have two distinct paths for contributors to work with DAO Masons.
 
 ### Contributor Track
@@ -35,7 +38,6 @@ Read more about the Core Member Track [here](/Rules/membership-rules#core-member
 - ##### [Membership Rules](/Rules/membership-rules)
 - ##### [Ritual of Acumen](/Rituals/ritual-of-acumen)
 - ##### [Ritual of Oaths](/Rituals/ritual-of-oaths)
-
 
 ---
 

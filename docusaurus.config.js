@@ -79,10 +79,6 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [],
-          },
-          {
             title: 'Community',
             items: [
               {
@@ -107,9 +103,9 @@ const config = {
       },
       announcementBar: {
         id: 'banner',
-        content: `DAO Masons is officially open for business! <a rel="noopener noreferrer" href='https://www.daomasons.com/#services/'>Schedule a free consulation.</a>`,
-        backgroundColor: '#60b8cf',
-        textColor: '#08132c',
+        content: `DAO Masons is officially open for business! <a rel="noopener noreferrer" href='https://buvld99oreh.typeform.com/to/QAzLnvZJ'>Schedule a free consulation.</a>`,
+        backgroundColor: '#00CAFF',
+        textColor: 'white',
         isCloseable: false,
       },
     }),

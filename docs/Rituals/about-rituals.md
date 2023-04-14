@@ -1,9 +1,11 @@
 ---
 sidebar_label: 'What is a Ritual?'
+title: 'DAO Masons Rituals'
 ---
 
-# DAO Masons Rituals
+import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
 
+<DraftExpectationsPartial />
 DAO Mason Rituals are the clearly defined processes we have put in place to ensure consistent, repeatable results for key aspects of our organization.
 
 Rituals include _actions_ we take, _words_ we speak, and _mindsets_ we adopt at different points within DAO operations.

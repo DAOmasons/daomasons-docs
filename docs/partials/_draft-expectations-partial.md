@@ -1,5 +1,7 @@
-:::info PUBLIC PREVIEW DOCUMENT
+:::info Living Governance Document
 
-This document is currently in **<a href='/concepts/public-preview-content'>public preview</a>** and may change significantly as feedback is captured from readers like you. Click the *Request an update* button at the top of this document or [join the DAO Masons Discord](https://discord.gg/FydbKxFnyU) to share your feedback.
+The DAO Masons rulebook is a **living document** that may change significantly in response to internal governance.
+
+Do you see a way these docs could improve? Click the _Give feedback_ button at the top of this document or [join the DAO Masons Discord](https://discord.gg/FydbKxFnyU) to let us know.
 
 :::
