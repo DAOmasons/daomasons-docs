@@ -96,10 +96,10 @@ const config = {
             ],
           },
         ],
-        colorMode: {
-          defaultMode: 'dark',
-        },
-        copyright: `Copyright © ${new Date().getFullYear()} DAO Masons.`,
+        // colorMode: {
+        //   defaultMode: 'dark',
+        // },
+        // copyright: `Copyright © ${new Date().getFullYear()} DAO Masons.`,
       },
       prism: {
         theme: lightCodeTheme,
