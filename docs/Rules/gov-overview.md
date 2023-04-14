@@ -7,6 +7,9 @@ sidebar_label: 'Governance Overview'
 import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
 
 <DraftExpectationsPartial />
+
+### Our Approach
+
 DAO Masons is a decentralized organization focused on building DAO products and offering DAO-related services. Our approach to governance emphasizes **efficiency**, **collaboration**, and **adaptability**.
 
 This document outlines our governance structure and how we manage decision-making within the organization.
@@ -50,6 +53,8 @@ Both **Core Members** and **Contributors** are encouraged to collaborate on proj
 This collaborative environment ensures that many perspectives are heard and valued, ultimately leading to better decision-making and more successful projects.
 
 Read more about how we make our **[Decision Making Process](/Rules/decision-making)**.
+
+---
 
 ### Current State of This Page
 

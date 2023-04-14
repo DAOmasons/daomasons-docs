@@ -93,6 +93,9 @@ Any and all decisions within the project scope. Most, if not all cases, the proj
 - If this happens frequently, the DAO should assess the Core Mason Meeting process and evaluate its overall efficiency, and make changes where needed.
 - At no point should any decisions be allowed to sit in the backlog for more than 2 weeks without being addressed.
 
+
+---
+
 ### Current State of This Page
 
 - [ ] Empty

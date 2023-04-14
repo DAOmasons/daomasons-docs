@@ -2,18 +2,17 @@
 sidebar_label: 'Projects'
 ---
 
-# Project Overview
+# Projects
 
 import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
 
 <DraftExpectationsPartial />
 
+### Projects Overview
+
 - **Projects** are the **primary unit of work** within DAO Masons. All compensated work occurs within the context of a Project.
-
 - **Any Core Member** can create a **[Project Proposal](../Templates/project-proposal)** to initiate a new Project.
-
 - **Projects** must include 1 or more **Project Outcomes** that specify the end results of the project.
-
 - **Every project** has its own **Project DAO** to track contributions and compensation.
 
 ### Creating New Projects
@@ -54,7 +53,7 @@ Projects are defined by a completed [Project Proposal Template](../Templates/pro
   - All Contributor work must be done from within a Role included in the Role Layout
 - have 1 or more Outcomes that define tangible, measurable results
 - must be approved by the Core DAO with a 2/3 majority vote
-- must have a completed [Project Proposal Template](../Templates/project-proposal)
+- begin with a completed [Project Proposal Template](../Templates/project-proposal)
 
 ### Project Roles
 

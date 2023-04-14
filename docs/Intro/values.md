@@ -7,7 +7,8 @@ sidebar_label: 'Values'
 import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
 
 <DraftExpectationsPartial />
-### Help DAOs Win. One Win at a Time.
+
+###  Help DAOs Win. One Win at a Time.
 
 ### Support Sovereign Communities
 
@@ -15,7 +16,7 @@ A DAO Mason builds and services structures that offer sovereign communities the 
 
 ### Human-Centered Design
 
-We do our best to make the tech fit the needs of the people. A system is not resilient or secure if it is not usable by everyone. DAO Masons prefer systems that are play-tested and iterated on by real people, not just by the developers.
+We do our best to make the tech fit the needs of the people. A system is not resilient or secure if it is not usable by everyone. DAO Masons prefer systems that are play-tested and iterated through real-world use, not just developer testing.
 
 ### Productive, Disciplined, Sacrificing
 
