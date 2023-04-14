@@ -46,13 +46,40 @@ Core Members also work on projects and earn, but they are also deeply committed 
 - There must be one Core Member leading every project. A Project Lead is responsible for the outcome and making final decisions on that Project. However, a Project Lead can also delegate some management responsibilities to Contributors with management roles (ex. Project Manager)
 - Core Members receive Voting Shares and can vote on which projects DAO Masons should work on, how to manage finances, and how to make changes to the DAO rules, culture documents, and governance mechanics, etc.
 
-#### How to Become a Core Member
+### Promotion: Becoming a Core Member
+
+The process where a Contributor becomes a Core Member is called a Promotion. In order to be promoted to Core Member, a Contributor must:
 
 1. Contribute to at least 3 completed projects including 1 Internal Project under the Contributor Member Track.
 1. Acquire an active DAO Mason core member as a Sponsor
 1. Complete the [Ritual of Acumen](/Rituals/ritual-of-acumen)
 1. Complete the [Ritual of Oaths](/Rituals/ritual-of-oaths)
-1. Be voted in by the DAO
+1. Be voted in by the DAO Masons Core Members using this [template](/Templates/PromotionTemplate)
+
+Once a contributor has been promoted, they are a full DAO Masons Core Member and can vote on all DAO Masons governance decisions. Any loot they have earned through contributions to DAO Masons will be converted to voting shares.
+
+### Demotion
+
+A DAO Masons Core Member has a set of responsibilities and expectations. If a Core Member is not meeting these expectations, they may be demoted to Contributor status.
+
+Here are some of the reasons why a Core Member may be demoted:
+
+- **Planned leave**: If a DAO member plans to a leave for an extended period of time (30 days +), and they can no longer be active for governance meetings, then they should be temporarily demoted to contributor status. This is a way to ensure that DAO governance is secure and efficient. It is not a reflection on the Core Member's performance, and when this member returns, they can be promoted back to Core Member.
+
+- **Inactivity**: If a Core Member is not active in DAO governance (without explanation), they should be demoted to Contributor status. Again, this is done to ensure that DAO can govern effectively without having to wait on inactive participants. If the inactive member wishes to return, they DAO can vote to promote them back to Core Member status.
+
+- **Unethical behavior**: If a Core Member is found to be engaging in unethical behavior, they should be demoted to Contributor status. Generally, 'unethical behavior' is defined as any behavior that is in breach of their Core Member agreement [Ritual of Oaths](/Rituals/ritual-of-oaths). If this is the reason for demotion, the proposal to demote should include references to this behavior in the [Demotion Proposal](/Templates/DemotionTemplate).
+
+- **Project Abandonment**: We fully expect all core members to complete any projects they commit to. If a Core Member abandons a project, they should be demoted to Contributor status.
+
+- **Bad Faith**: If a Core Member is found to be acting in bad faith (ex. trying to steal funds), they should be demoted to Contributor status. Anyone who has been demoted because of bad faith should be banned from the DAO.
+
+#### Ethics:
+
+- We should never remove a members shares, only convert them to loot. This is to ensure the integrity of the DAO rewards system. Of course, a member or contributor can always rage quit their DAO tokens at any time.
+- Demotions requests should be met with a high degree of scrutiny and discussion.
+- In cases of planned leave, we should always welcome the member back when they return.
+- Demotion requests should include as much evidence/references as possible. Especially in cases of bad faith, it is important to have a clear record of the behavior that led to the demotion.
 
 ### Leaving the DAO
 
@@ -73,6 +100,6 @@ Core Members also work on projects and earn, but they are also deeply committed 
 
 - [ ] Empty
 - [ ] Rough Draft
-- [x] Editing passes: 1
+- [x] Editing passes: 2
 - [ ] Final Draft
 - [ ] Ratified

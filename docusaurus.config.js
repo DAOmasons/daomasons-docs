@@ -3,9 +3,7 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 
-console.log('lightCodeTheme', lightCodeTheme.styles[0]);
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-console.log('darkCodeTheme', darkCodeTheme);
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'DAO Masons - Governance docs',
@@ -94,7 +92,10 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} DAO Masons.`,
+        // colorMode: {
+        //   defaultMode: 'dark',
+        // },
+        // copyright: `Copyright © ${new Date().getFullYear()} DAO Masons.`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -104,7 +105,7 @@ const config = {
         id: 'banner',
         content: `DAO Masons is officially open for business! <a rel="noopener noreferrer" href='https://buvld99oreh.typeform.com/to/QAzLnvZJ'>Schedule a free consulation.</a>`,
         backgroundColor: '#00CAFF',
-        textColor: 'white',
+        textColor: 'black',
         isCloseable: false,
       },
     }),
