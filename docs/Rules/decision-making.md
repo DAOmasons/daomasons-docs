@@ -26,11 +26,11 @@ The Core DAO makes decisions that fall within the Core DAO scope. This includes:
   - This is all summarized in a [Project Request](/Templates/project-proposal) that is submitted prior to the meeting.
   - DAO Members are expected to have reviewed the Project Proposal before the meeting.
 - **Promotions**. Promoting Contributors to Core Members.
-  - [A Promotion Request](/Rules/membership-rules#how-to-become-a-contributor) should be submitted prior to the meeting.
+  - [A Promotion Request](/Templates/PromotionTemplate) should be submitted prior to the meeting.
   - The DAO decides whether or not the member in question meets the [promotion criteria](/Rules/membership-rules#core-member).
   - DAO Members are expected to have reviewed the Promotion Request before the meeting.
 - **Demotions** Demoting Core Members to Contributors.
-  - [A Demotion Request](/Rules/membership-rules#how-to-become-a-contributor) should be submitted prior to the meeting.
+  - [A Demotion Request](/Templates/DemotionTemplate) should be submitted prior to the meeting.
   - The DAO reviews the member in question and makes sure that the member in question meets the [demotion criteria](/Rules/membership-rules#core-member).
   - DAO Members are expected to have reviewed the Demotion Request before the meeting.
 - **Core DAO Structure**. Changes to the Core DAO structure.
