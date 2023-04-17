@@ -13,11 +13,13 @@ This is a system for testing the acumen of potential core members. It is a test 
 
 ## Current Implementation
 
-Prospective members must appear before a panel of at least 3 DAO Mason Core Members, where they will be challenged to think critically, communicate effectively and display their understanding of DAO Masons processes. Each member of the panel provides an assessment to the DAO preceding a DAO vote.
+Prospective members must appear before a panel of at least 3 DAO Mason Core Members.   There they will be challenged to think critically, communicate effectively and display their understanding of DAO Masons processes. The panel will review the prospective member's [Core Member Agreement](/Templates/core-member-agreement) and may ask questions or challenge the prospective member to clarify aspects of the agreement. 
+
+Each member of the panel provides an assessment to the DAO preceding a DAO vote.
 
 ## Why?
 
-The Ritual of Acumen serves to safeguard the Core DAO decision making process by ensuring that Core Members are knowledgeable about the DAO and its systems, able to think critically and communicate effectively.
+The Ritual of Acumen serves to safeguard the Core DAO decision making process by ensuring that Core Members are knowledgeable about the DAO and its systems, able to think critically and communicate effectively. Putting critical attention and challenging a prospective member ensures that each Core Member has been screened properly and can expect their colleagues to have met the same high standards they did. 
 
 #### What problems are we solving
 

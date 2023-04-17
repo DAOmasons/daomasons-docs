@@ -21,7 +21,8 @@ module.exports = {
         'Rules/projects',
       ],
     },
-    /*{
+    /*
+    {
       type: 'category',
       label: 'Strategy',
       items: ['Strategy/sustainability'],
@@ -47,6 +48,7 @@ module.exports = {
         'Templates/DemotionTemplate',
         'Templates/ritual',
         'Templates/core-member-agreement',
+        'Templates/tools-of-the-trade',
         'Templates/contributor-agreement',
       ],
     },

@@ -1,7 +1,7 @@
 # Core Member Agreement
 
 > The Core Member agreement is used in conjunction with the [Ritual of Oaths](/Rituals/ritual-of-oaths)
-> and the 
+> and the [Ritual of Acumen](/Rituals/ritual-of-acumen)
 
 
 ### Core Member Agreement
@@ -65,7 +65,7 @@ It is understood that a reasonable allowance for side projects and creative ende
 
 ### Tools of the Trade
 
-I've reviewed the [Tools of the Trade](https://hackmd.io/6fQdTdo4Qvu17KQbqN-PSw) and clarified my own Commitment Portfolio:
+I've reviewed the [Tools of the Trade](/Templates/tools-of-the-trade) and clarified my own Commitment Portfolio:
 
 ---
 
