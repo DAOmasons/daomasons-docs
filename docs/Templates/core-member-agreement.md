@@ -3,10 +3,9 @@
 > The Core Member agreement is used in conjunction with the [Ritual of Oaths](/Rituals/ritual-of-oaths)
 > and the [Ritual of Acumen](/Rituals/ritual-of-acumen)
 
-
 ### Core Member Agreement
 
-I hereby accept the mantle of the DAO Mason. In doing so I agree to abide by, to the best of my ability, the principles & commitments detailed within this letter of understanding.
+I hereby accept the mantle of the DAO Mason. In doing so I agree to abide by, to the best of my ability, the principles & commitments detailed within this core member agreement.
 
 ### Guiding Statements
 
@@ -14,9 +13,9 @@ I agree and attest that I am in accord with the following three (3) DAO Masons g
 
 1. A DAO Mason builds and services structures that offer sovereign communities the protection, stability, and freedom to coordinate. _Initials_ \_\_\_\_\_
 
-1. A DAO Mason is productive and disciplined. Voluntary, coordinated sacrifice for virtuous ideals is the blade we use to sever the heads of Moloch. _Initials_ \_\_\_\_\_
+1. A DAO Mason is productive and disciplined. _Initials_ \_\_\_\_\_
 
-1. A DAO Mason cultivates a culture of craft, and craft is sacred. Dedication and focus are the rituals we perform to conjure expertise. _Initials_ \_\_\_\_\_
+1. A DAO Mason cultivates a culture of craft, and craft is sacred. Dedication, discipline and focus are the rituals we perform to conjure expertise. _Initials_ \_\_\_\_\_
 
 ### Principled Commitment Attestation
 
@@ -26,7 +25,7 @@ I agree and attest that I am in accord with the following three (3) DAO Masons g
 
 3. In service of my own growth, I remain open to feedback from fellow DAO Masons regarding my adherence to these principles and values, understanding that my fellows may have a different perspective than I do. _Initials_ \_\_\_\_\_
 
-- **Non-coercion** - Our coordination comes from a place of alignment on values and outcomes, not manipulation or authority alone.
+- **Non-coercion** - We coordinate through agreements and opt-in mechanics as opposed to arbitrary authority or manipulation.
 - **Discipline** - We build practical, organized systems and practices for ourselves, and reliably direct our attention and energy into using them.
 - **Productivity** - We are craftsmen, and we produce tangible results.
 - **Dedication** - We set apart a portion of our time, attention and energy for DAO Masons pursuits.
@@ -44,11 +43,7 @@ I agree and attest that I am in accord with the following three (3) DAO Masons g
 
 I articulate my _Personal Mission Statement_ as follows. I am open to questions about my personal mission as it relates to my work in DAO Masons, and I will refine and articulate it over time.
 
-_Personal Mission Statement_ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***
-
-I articulate the _Key Activities_ that I agree to pursue & accomplish regularly in pursuit of my Personal Mission Statements and the DAOMason Mission Statements. I agree to fill roles related to these key activities in alignment with my Percent Focus and other commitments.
-
-_Key Activities & Roles_ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***
+_Personal Mission Statement_ **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 ### Focus Commitment
 
@@ -63,9 +58,12 @@ Amount: \_\_\_\_
 
 It is understood that a reasonable allowance for side projects and creative endeavors necessary for my personal sovereign expression is made without impacting a 100% focus commitment.
 
+<!--
+
 ### Tools of the Trade
 
 I've reviewed the [Tools of the Trade](/Templates/tools-of-the-trade) and clarified my own Commitment Portfolio:
+-->
 
 ---
 
@@ -76,18 +74,18 @@ I agree to keep and maintain a personal "Trusted System" that includes my active
 **Accountability**
 I agree to be open to encouragement and accountability from other DAOmasons regarding my alignment with the above statements. If I am unable or unwilling to receive encouragement or accountability regarding my alignment with the above statements, I will schedule a time in the near future where I will be prepared to receive such. I will state my needs and boundaries and request mediation when needed.
 
-Initials: **\_\_\_**
+Initials: **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-Signature **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***
-
+Signature **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 ---
 
 ## Document Status
-> *Ratified documents have been reviewed and approved by the DAO and are considered "Active Governance" and will not change without a DAO vote. Anything before ratified is considered "Pending Governance" and is subject to change by editorswithout a DAO vote*
+
+> _Ratified documents have been reviewed and approved by the DAO and are considered "Active Governance" and will not change without a DAO vote. Anything before ratified is considered "Pending Governance" and is subject to change by editorswithout a DAO vote_
 
 - [ ] Empty
 - [ ] Rough Draft
-- [ ] Editing passes: 5
-- [ ] Final Draft
+- [ ] Editing passes: 6
+- [x] Final Draft
 - [ ] Ratified

@@ -72,7 +72,6 @@ Projects are defined by a completed [Project Proposal Template](../Templates/pro
 - Project Leads can assign and unassign contributors to Roles within the project.
 - Project Leads can add and modify Role definitions as needed.
 - Project Leads can be replaced by a DAO Masons majority vote using the [Decision Making Process](/Rules/decision-making).
-  - A vote to replace a Project Lead may be initiated by a majority vote within project DAO.
 
 ### Payout Schemas
 
