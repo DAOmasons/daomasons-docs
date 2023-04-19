@@ -1,4 +1,11 @@
-# Ritual of Acumen
+---
+sidebar_label: 'Ritual of Acumen'
+title: 'Ritual of Acumen'
+---
+
+import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
+
+<DraftExpectationsPartial />
 
 ## Essence
 
@@ -6,11 +13,13 @@ This is a system for testing the acumen of potential core members. It is a test 
 
 ## Current Implementation
 
-Prospective members must appear before a panel of at least 3 DAO Mason Core Members, where they will be challenged to think critically, communicate effectively and display their understanding of DAO Masons processes.  Each member of the panel provides an assessment to the DAO preceding a DAO vote. 
+Prospective members must appear before a panel of at least 2 DAO Mason Core Members. There they will be challenged to think critically, communicate effectively and display their understanding of DAO Masons processes. The panel will review the prospective member's [Core Member Agreement](/Templates/core-member-agreement) and may ask questions or challenge the prospective member to clarify aspects of the agreement.
+
+Each member of the panel provides an assessment to the DAO preceding a DAO vote.
 
 ## Why?
 
-The Ritual of Acumen serves to safeguard the Core DAO decision making process by ensuring that Core Members are knowledgeable about the DAO and its systems, able to think critically and communicate effectively.
+The Ritual of Acumen serves to safeguard the Core DAO decision making process by ensuring that Core Members are knowledgeable about the DAO and its systems, able to think critically and communicate effectively. Putting critical attention and challenging a prospective member ensures that each Core Member has been screened properly and can expect their colleagues to have met the same high standards they did.
 
 #### What problems are we solving
 
@@ -21,18 +30,22 @@ The Ritual of Acumen serves to safeguard the Core DAO decision making process by
 
 #### Why is this a good solution
 
-- We create a common 'bedrock of understanding' among all members who hold governance positions. This way we can focus on the task at hand during discussions.
-- We create a common language and set of tools for making decisions.
-- Save time not having to re-explain or rehash old debates, if we want to change rules, we have a formalized process for doing so.
-- We can make decisions faster and more effectively.
-- We can make better decisions by exposing ourselves to less risk of logical fallacies and poor reasoning.
+- We create a common 'bedrock of understanding' among all members who hold governance positions. This leads to several benefits:
+  - We can focus on the task at hand during discussions.
+  - We save time not having to re-explain or rehash old debates.
+  - If we want to change rules, each member is familiar with the formalized process for doing so.
+  - We can make decisions faster and more effectively.
+  - We can make better decisions by exposing ourselves to less risk of logical fallacies and poor reasoning.
+- Prospective members knowing they will be screened will lead to them developing a deeper understanding of the governance structure.
+- We get to practice a common language and using set of tools for making decisions.
+- It's a low maintenance tool that can be used to quickly screen new members.
 
 #### Downsides/Risks
 
 - Overhead/friction to onboarding new members.
 - Overhead/friction for those who have to test new members.
 - Thought might become too homogenous if we take critical thinking too far. We do need some diversity of thought to allow for creativity.
-- Also, pointing out logical fallacy can be used as a way to discount reasonable arguments.
+- Pointing out logical fallacies can be used as a way to discount reasonable arguments.
 
 #### Mitigation:
 
@@ -67,6 +80,7 @@ Automation is risky because we don't want to create a system that is too easy to
 (none yet. Add resources for testing here.)
 
 ---
+
 ##### Current Stage of Development
 
 - [x] Unimplemented
@@ -75,8 +89,8 @@ Automation is risky because we don't want to create a system that is too easy to
 - [ ] Partially Automated
 - [ ] Fully Automated/Passive
 
+---
 
---- 
 ### Current State of This Page
 
 - [ ] Empty

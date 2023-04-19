@@ -4,19 +4,25 @@ sidebar_label: 'Join DAO Masons'
 
 # Join DAO Masons
 
-DAO Masons is looking for highly motivated, passionate DAO builders to join our ranks. We have two distinct paths for contributors to work with DAO Masons.
+import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
 
-### Contributor Track
+<DraftExpectationsPartial />
 
-The Contributor Track is a **low-friction** track, designed to get hard-working, talented builders working on DAO Masons projects as fast as possible. It is also for those who would like to one day become a core member and are looking to demonstrate their skills and commitment to DAO Masons.
+### Are you...
 
-The key distinction between contributors and core members is that contributors are no commitments or authority related to DAO Masons governance.
+a highly motivated, passionate DAO builder, designer, connector and/or operator? We're looking for you! 
 
-There are no limitations on earnings or how many projects a contributor can work on.
+We have two distinct membership paths for contributors to work with DAO Masons.
 
-If you wish to begin working at DAO Masons, please join our [Discord](https://discord.gg/zQYhrUB5Hj) and introduce yourself in the #introductions channel. We will then invite you to our contributor channel where you can begin working on projects.
+### Contributor Member Track
 
-Read more about the Contributor Track [here](/Rules/membership-rules#contributor).
+The Contributor Member Track is a **low-friction** track, designed to get hard-working, talented builders working on DAO Masons projects as fast as possible. It is also for those who would like to one day become a Core Member and are looking to demonstrate their skills and commitment to DAO Masons.
+
+There are no limitations on earnings or how many projects a Contributor Members can work on. The key distinction between Contributor Members and Core Members is that Contributors have no commitments or authority related to DAO Masons governance while Core Members have both. 
+
+If you wish to begin working at DAO Masons, please join our [Discord](https://discord.gg/zQYhrUB5Hj) and introduce yourself in the #introductions channel. We will then invite you to our Contributor Channel where you can begin working on projects.
+
+Read more about the Contributor Member Track [here](/Rules/membership-rules#contributor).
 
 ### Core Member Track
 
@@ -35,7 +41,6 @@ Read more about the Core Member Track [here](/Rules/membership-rules#core-member
 - ##### [Membership Rules](/Rules/membership-rules)
 - ##### [Ritual of Acumen](/Rituals/ritual-of-acumen)
 - ##### [Ritual of Oaths](/Rituals/ritual-of-oaths)
-
 
 ---
 

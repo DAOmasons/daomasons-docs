@@ -16,13 +16,13 @@ module.exports = {
         'Rules/gov-overview',
         'Rules/dao-types',
         'Rules/membership-rules',
-        'Rules/dao-roles',
         'Rules/decision-making',
         'Rules/proposals',
         'Rules/projects',
       ],
     },
-    /*{
+    /*
+    {
       type: 'category',
       label: 'Strategy',
       items: ['Strategy/sustainability'],
@@ -43,10 +43,14 @@ module.exports = {
       type: 'category',
       label: 'Templates',
       items: [
-        'Templates/project-proposal', 
-        'Templates/ritual', 
-        'Templates/core-member-agreement', 
-        'Templates/contributor-agreement'
+        'Templates/project-proposal',
+        'Templates/PromotionTemplate',
+        'Templates/DemotionTemplate',
+        'Templates/ritual',
+        'Templates/core-member-agreement',
+        'Templates/tools-of-the-trade',
+        'Templates/contributor-agreement',
       ],
     },
-  ]}
+  ],
+};

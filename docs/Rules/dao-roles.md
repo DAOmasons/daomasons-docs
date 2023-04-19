@@ -4,7 +4,14 @@ sidebar_label: 'DAO Roles'
 
 # DAO Roles
 
-Roles at DAO Masons represent a number of different things. In the discord server, roles are similar to roles you would find in many servers, often times developed around interest topics that a visitor may have. Roles in the server are fluid and will come and go as required. A good example of this would be with Client Roles and Project Roles that go along with that. We find it is easier and creates less clutter in a server if certain conversations are gated to only those that would need to see as a client or as a member of the team. The following is a breakdown of the role structure at DAO Masons.
+import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-partial.md';
+
+<DraftExpectationsPartial />
+Roles at DAO Masons represent a number of different things.
+
+Discord Roles
+
+In our discord server, roles are similar to roles you would find in many servers, often times developed around interest topics that a visitor may have. Roles in the server are fluid and will come and go as required. A good example of this would be with Client Roles and Project Roles that go along with that. We find it is easier and creates less clutter in a server if certain conversations are gated to only those that would need to see as a client or as a member of the team. The following is a breakdown of the role structure at DAO Masons.
 
 ## DAO Member Roles
 
@@ -24,6 +31,8 @@ Since we develop DAO products, obviously we would need developer roles, account 
 ## Discord Roles
 
 Roles within Discord often follow much of what has already been talked about in this document, in fact those DAO and contributor roles usually coincide with Discord roles. There are a few addition roles in the server which are important to note. For example, all of our bots are given a role, so that they appear nice and orderly on the right menu bar. Another one is #verified. This means that you are verified as human and do not mean any harm to the server.
+
+---
 
 ### Current State of This Page
 
