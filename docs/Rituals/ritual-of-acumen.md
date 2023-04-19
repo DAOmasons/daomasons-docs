@@ -61,19 +61,22 @@ As for homogenous thought, we need to emphasize that critical thinking is a tool
 
 Manual:
 
-Create the starting docs for this test. We need to document the tactical meeting format, make sure our docs are consistent, and have some very concise documents about the basics of critical thinking.
+- Create the starting docs for this test.
+- Document the tactical meeting format.
+- Make sure our docs are consistent
+- Concise documentation about the basics of critical thinking.
 
 Systematized
 
-Then we can feed these documents into ChatGPT and have it generate a log list of questions. We store those questions privately and then provide a randomized list of questions to the new member.
+Use AI LLM to analyze criticial thinking docs and provide a long list of questions. Questions are stored privately and then provide a randomized list of questions to the new member.
 
 We will test this system on ourselves first.
 
 #### Endgame
 
-Hard to tell what items we can fully automate. This is a system that definitely requires feedback from the Core Members.
+It can be challenging to determine which tasks can be entirely automated. This system necessitates input from the Core Members.
 
-Automation is risky because we don't want to create a system that is too easy to game. We should have humans present to verify that the new member is actually studying the material.
+Automation poses risks, as we aim to avoid creating a system that can be easily exploited. It is essential to have human involvement to ensure that new members are genuinely engaging with the material.
 
 ## Details
 
