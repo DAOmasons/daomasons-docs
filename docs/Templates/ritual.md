@@ -6,6 +6,10 @@
 
 _(1 Paragraph or bullet points about what this system is)_
 
+## Current Implementation
+
+_(A full description of how the system is currently implemented.)_
+
 ## Why?
 
 _(Brief description about why this system is needed)_
@@ -22,10 +26,6 @@ _(List of reasons why this is a good solution)_
 
 _(List of pitfalls that we are accepting. Can include pitfalls with the system at current implementation or overall)_
 _(Can also include some steps to mitigation with further steps in )_
-
-## Current Implementation
-
-_(A full description of how the system is currently implemented.)_
 
 ## Roadmap
 

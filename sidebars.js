@@ -32,11 +32,11 @@ module.exports = {
       label: 'Rituals',
       items: [
         'Rituals/about-rituals',
-        'Rituals/ritual-of-oaths',
+        'Rituals/ritual-of-accord',
         'Rituals/ritual-of-echoes',
         'Rituals/ritual-of-light',
-        'Rituals/ritual-of-ranks',
-        'Rituals/ritual-of-acumen',
+        'Rituals/ritual-of-oaths',
+        'Rituals/ritual-of-ranks'
       ],
     },
     {

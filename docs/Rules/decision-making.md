@@ -10,45 +10,34 @@ import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-p
 
 ## Who Decides?
 
-- Core Members make [Core DAO](/Rules/dao-types) decisions through Moloch DAO [Proposals](/Rules/proposals)
-- Project Leads make [Project](/Rules/projects) decisions through a mix of soft consensus, voting within their Project DAO, or not voting at all.
-  - In projects, whether or not a decision is made through soft consensus or voting is determined by the Project Lead.
-  - Project leads can also choose to not vote on decisions altogether, even if there is a disagreement.
-  - However, the team may motion to replace a project lead if necessary.
-  - Whether or not a project lead is replaced is determined by the Core DAO after arbitration.
+- Core Members always have the option to make [Core DAO](/Rules/dao-types) decisions through Moloch DAO [Proposals](/Rules/proposals).
+- Project Leads make [Project](/Rules/projects) specific decisions. Project leads can elect to adopt any decision making process, involving Project Contributors as Lead sees fit.
 
 ## What does the Core DAO decide on?
 
 The Core DAO makes decisions that fall within the Core DAO scope. This includes:
 
-- **Projects**. What client work the DAO agrees to take on as well as internal projects.
-  - This includes examining who is working on the project, its scope, worth, and the Project Lead.
-  - This is all summarized in a [Project Request](/Templates/project-proposal) that is submitted prior to the meeting.
-  - DAO Members are expected to have reviewed the Project Proposal before the meeting.
-- **Promotions**. Promoting Contributors to Core Members.
-  - [A Promotion Request](/Templates/PromotionTemplate) should be submitted prior to the meeting.
-  - The DAO decides whether or not the member in question meets the [promotion criteria](/Rules/membership-rules#core-member).
-  - DAO Members are expected to have reviewed the Promotion Request before the meeting.
-- **Demotions** Demoting Core Members to Contributors.
-  - [A Demotion Request](/Templates/DemotionTemplate) should be submitted prior to the meeting.
-  - The DAO reviews the member in question and makes sure that the member in question meets the [demotion criteria](/Rules/membership-rules#core-member).
-  - DAO Members are expected to have reviewed the Demotion Request before the meeting.
+- **Projects**. Which Project proposals are approved.
+  - Project details are summarized in a [Project Request](/Templates/project-proposal) as part of the [Project Proposal](/Rules/projects#creating-new-projects) process.
+- **Promotions/Demotions**. Promoting Contributors to Core Members and demoting Core Members to Contributors.
+  - A vote occurs in response to a [Promotion Request](/Templates/PromotionTemplate) or [Demotion Request](/Templates/DemotionTemplate).
+  - The DAO decides whether or not the member in question meets the [promotion criteria](/Rules/membership-rules#core-member) or [demotion criteria](/Rules/membership-rules#core-member).
 - **Core DAO Structure**. Changes to the Core DAO structure.
-  - This includes changes to any of the DAO rules or operating procedures.
-  - Also includes changes to any cultural docs or articles that DAO Masons chooses to publish.
-- **Misc** Sometimes the DAO needs to perform actions that are not covered by the above categories.
-  - Extra details about these decisions need to be outlined before the Core Masons Meeting, but they need not conform to any particular request template.
+  - This includes changes to this rulebook or any other DAO ratified document.
+- **Miscellaneous** A vote may be called for when significant changes are proposed to a DAO shared resource.
 
 ## What does a Project DAO decide on?
 
-Any and all decisions within the project scope. Most, if not all cases, the project lead should be the one making decisions for the project. These decisions would include:
+Project DAOs are responsible for any and all decisions within the scope of a Project. The Project Lead has final decision making authority. Project leads can elect to adopt any decision making process, involving Project Contributors as they see fit. 
 
-- Scope of the project
-- Changing roles within the project
-- Bring on new members
-- Removing members
-- Any changes the client requests
-- Arbitrating disputes between non-team lead members
+**Project DAO decisions include:**
+
+- Adding and removing members
+- Modifying roles within the Project
+- Minor to moderate changes to the scope of the Project, driven by client needs
+  - Larger changes should be brought to the Core DAO and may require a new Project
+- Arbitrating disputes between Project Contributors
+  - Disputes involving Project Lead should be brought to the Core DAO for arbitration
 
 ## Core DAO Decision Making Process
 
@@ -60,12 +49,12 @@ Any and all decisions within the project scope. Most, if not all cases, the proj
 - Core Members are expected to have reviewed any items that are being voted on before the meeting.
 - Items in the agenda are ordered by priority and time sensitivity.
 - Core members discuss each item in the agenda as time permits.
-- If there is soft consensus on an item, the DAO makes a Moloch Proposal and votes it through.
-- As a general rule, any proposal that has not followed the decision making process should be voted down.
+- If there is soft consensus on the terms of the item, the DAO makes a Moloch Proposal and votes it through.
+- As a general rule, any Moloch Proposal that has not followed the decision making process should be voted down.
 
-### Deeper Discussions and Disagreements
+#### Deeper Discussions and Disagreements
 
-- If the DAO does not fully agree on an item, or the subject requires further exploration, a member can request that we create a discussion thread on the DAO's forum. This is known as a **Discussion Period**.
+- If there is no consensus on an item, or the subject requires further exploration, a member can request that we create a discussion thread on the DAO's forum. This is known as a **Discussion Period**.
 - All Discussion Periods have a deadline (usually 1 week)
 - The DAO can extend the discussion deadline if there is soft consensus to do so.
 - If the DAO finds a compromise by the end of the deadline, the DAO makes a Moloch Proposal with any new changes applied, and votes it through.
@@ -76,7 +65,7 @@ Any and all decisions within the project scope. Most, if not all cases, the proj
 
 ### Red Alerts/Emergency Decisions
 
-- Any Core Member can raise a Red Alert if they feel that a decision needs to be made immediately (ex, in the case of an attack or exploit)
+- Any Core Member can raise a Red Alert if they feel that a decision needs to be made immediately (ex. an attack or exploit)
 - Every Core Member is required to have a contact method that guarantees a response within 12 hours.
 - Every Core Member is required to delegate their shares to another member in cases where they will be away from their computer for an extended period of time (ex, vacation).
 - A meeting will be scheduled within 12 hours of the Red Alert being raised. All non-delegated Core Members are required to attend regardless of whether or not they think the issue is urgent.
@@ -87,12 +76,12 @@ Any and all decisions within the project scope. Most, if not all cases, the proj
 
 ### Governance Backlog
 
-- To ensure timely decision turnaround times for our clients, project proposals should sit first in the agenda for the Core Masons Meeting.
-- If there are any project proposals in backlog, Core Masons need to schedules meetings until they are all cleared.
+- To ensure timely decision turnaround times for our clients, External Project Proposals should be prioritized in the agenda for the Core Masons Meeting.
+- If there are any Project Proposals in the backlog, Core Masons need to schedule or extend meetings until they are all cleared.
+- Meetings should be structured so that all or most items in the backlog get a reasonable amount of the allotted time so they can be moved to a forum discussion if needed.
 - If the DAO has a large backlog of non-project decisions to make, they should schedule more Core Masons meetings until the backlog is cleared.
 - If this happens frequently, the DAO should assess the Core Mason Meeting process and evaluate its overall efficiency, and make changes where needed.
 - At no point should any decisions be allowed to sit in the backlog for more than 2 weeks without being addressed.
-
 
 ---
 

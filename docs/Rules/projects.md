@@ -19,14 +19,10 @@ import DraftExpectationsPartial from '@site/docs/partials/\_draft-expectations-p
 
 1. **Read** the [Project Overview](../Rules/projects) rules page.
 1. **Create** a Project Request using the [Project Template](/Templates/project-proposal).
-1. **If you are a core member** you may bring the proposal to a meeting immediately and present it for approval.
-   - If the proposal does not receive unanimous approval, proceed to the next step.
 1. **Add** it to the [Project Proposals Section of the Discussion Forum](https://commonwealth.im/dao-masons/discussions/Project%20Proposals).
-1. **Signal** to DAO Masons on [Discord](https://discord.com/invite/FydbKxFnyU) that the proposal is up
-1. **Attend** a DAO Masons meeting and add your project to the agenda.
-1. **Use** the [Decision Making Process](/Rules/decision-making) with DAO Masons Core Members to decide whether to initiate the [Project Ratification Process](/Rules/projects#project-ratification) or to amend the project proposal.
-1. **Amend** the proposal if needed and return to step 4.
-1. **Steward** the [Project Ratification Process](/Rules/projects#project-ratification) to completion
+1. **Request** that a Core Member sponsor your proposal (or sponsor it yourself if you are a Core Member) and add it to the next DAO Masons Core Member meeting agenda.
+1. **Attend** a DAO Masons Core Member meeting and present your project.
+1. **Use** the [Decision Making Process](/Rules/decision-making) with DAO Masons Core Members to have your proposal approved or declined.
 
 ## Project Definition
 
