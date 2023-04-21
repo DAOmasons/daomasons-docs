@@ -75,7 +75,6 @@ Having a clearly defined, accessible decision making process allows any Core Mem
 #### Endgame
 
 - Jord thinks it's a great idea to turn it into an app
-- Mindlink enabled instant decision making system
 
 ## Details
 
