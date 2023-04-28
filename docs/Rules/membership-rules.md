@@ -24,7 +24,7 @@ Contributors are focused primarily on building cool projects and earning. They a
   - Contributors may not hold Voting Shares within DAO Masons but they may hold Loot Shares.
   - Loot Shares expose Contributors to recurring payments from the [Echo Fund](/Rituals/ritual-of-echoes)
 - If a Contributor becomes a Core Member, their non-voting Loot Shares are converted to Voting Shares.
-- All Core Members must begin as Contributors, contributing to at least 2 External Projects and 1 Internal Project.
+- All Core Members must begin as Contributors, contributing to at least 3 completed projects including 1 Internal Project.
 
 #### How to Become a Contributor
 
