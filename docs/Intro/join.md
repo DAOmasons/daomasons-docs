@@ -18,9 +18,11 @@ We have two distinct membership paths for contributors to work with DAO Masons.
 
 The Contributor Member Track is a **low-friction** track, designed to get hard-working, talented builders working on DAO Masons projects as fast as possible. It is also for those who would like to one day become a Core Member and are looking to demonstrate their skills and commitment to DAO Masons.
 
-There are no limitations on earnings or how many projects a Contributor Members can work on. The key distinction between Contributor Members and Core Members is that Contributors have no commitments or authority related to DAO Masons governance while Core Members have both. 
+There are no limitations on earnings or how many projects a Contributor Member can work on. The key distinction between Contributor Members and Core Members is that Contributors have *no commitments or authority related to DAO Masons governance* while Core Members have both. 
 
-If you wish to begin working at DAO Masons, please join our [Discord](https://discord.gg/zQYhrUB5Hj) and introduce yourself in the #introductions channel. We will then invite you to our Contributor Channel where you can begin working on projects.
+If you wish to begin working as a DAO Mason, please join our [Discord](https://discord.gg/zQYhrUB5Hj) and introduce yourself in the #introductions channel. Be sure to let us know your skill set and why DAO Masons appeals to you. 
+
+When we have project work available that is a match for you, you may be recruited by a Project Lead to join a project team. 
 
 Read more about the Contributor Member Track [here](/Rules/membership-rules#contributor).
 
