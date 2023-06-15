@@ -22,6 +22,10 @@ Ready for your next win? Contact us for a [free consultation](https://buvld99ore
 
 We start with your idea, existing organization or DAO. DAO Masons will design a functional DAO with a governance surface that helps you make decisions, coordinate, and grow. We gather input from your team and community. We help you define your mission, vision, and values and the mechanisms that help you stay aligned and moving toward meaningful outcomes.
 
+### DAO Operations
+
+Does your DAO need some extra hands on deck? Bring in a team of DAO Masons to help you with your operations. We can help you with everything from onboarding new members to writing documentation.
+
 ### Development
 
 DAOs are unique. DAO Masons will craft custom DAO applications and tools for your DAO based on your unique needs. Our aim is to help your team focus on what matters most: the mission.
